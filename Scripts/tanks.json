@@ -1,0 +1,17 @@
+[
+  {
+    "name": "A-1",
+    "flag": "../Images/flags/edril.png",
+    "designation": "Light Tank",
+    "image": "../Images/tanks/A-1.png",
+    "armaments": [
+        "37x180mm EC35-37"
+    ],
+    "crew": 3,
+    "mass": "15.78t",
+    "hp": 568,
+    "penetration": "42mm",
+    "maxSpeed": "34 km/h",
+    "era": "Interwar"
+  }
+]
