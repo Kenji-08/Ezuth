@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('tank-list');
   if (!container) return;
 
-  fetch('../Scripts/tanks.json')
+  fetch('../Scripts/Skolia/tanks.json')
     .then(response => {
       if (!response.ok) throw new Error('Failed to load tanks.json');
       return response.json();
