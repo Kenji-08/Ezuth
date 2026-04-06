@@ -16,7 +16,7 @@
   {"name": "Voltaren Armored Corp.",
     "flag": "../Images/flags/voltaren.png",
     "description": "A powerful corporation that produces many heavy tanks.",
-    "tanksPage": "VAC.html",
+    "tanksPage": "VACTanks.html",
     "more": "#"
     }
 ]
