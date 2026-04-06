@@ -1,0 +1,46 @@
+[
+  {
+    "name": "TK-1",
+    "flag": "",
+    "designation": "Tankette",
+    "image": "../Images/tanks/TK-1.png",
+    "armaments": [
+        "50x275mm SK50"
+    ],
+    "rotation": "20deg/s",
+    "vertical": "-10 / 20deg",
+    "horizontal": "-8 / 16.2deg",
+    "reload": "1.85s",
+    "penetration": "53mm",
+    "crew": 2,
+    "mass": "7.1t",
+    "hp": 223,
+    "maxSpeed": "null",
+    "engine": "1.85L V6",
+    "era": "Interwar"
+  },
+  {
+    "name": "TK-6",
+    "flag": "",
+    "designation": "Landship",
+    "image": "../Images/tanks/TK-6.png",
+    "armaments": [
+        "70x298mm Cannon | 594 m/s | 76mm pen",
+
+        "2 50x180mm Cannon | 533 m/s | 46mm pen",
+
+        "2 70x93mm Cannon | 344 m/s | 35mm pen"
+
+    ],
+    "rotation": "3.6deg/s | 12deg/s | 3.6deg/s",
+    "vertical": "-15.7 / 25.9deg | -12.4 / 45deg | -10 / 20deg",   
+    "reload": "3.62s | 2.57s | 2.09s",
+    "penetration": "76mm (70x298mm)",
+    "crew": 7,
+    "mass": "27.54t",
+    "hp": 450,
+    "maxSpeed": "22 km/h",
+    "engine": "1.85L V12",
+    "era": "Interwar"
+  }
+]
