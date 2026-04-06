@@ -55,5 +55,1134 @@
     "maxSpeed": null,
     "engine": "2.73L V12",
     "era": "Interwar"
+  },
+  {
+    "name": "A-2A",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-2A.png",
+    "armaments": [
+      "77x493mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "19.88t",
+    "hp": 506,
+    "maxSpeed": null,
+    "engine": "2.55L V12",
+    "era": null
+  },
+  {
+    "name": "A-2B",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-2B.png",
+    "armaments": [
+      "77x493mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "19.97t",
+    "hp": 506,
+    "maxSpeed": null,
+    "engine": "2.55L V12",
+    "era": null
+  },
+  {
+    "name": "A-2C",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-2C.png",
+    "armaments": [
+      "77x493mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "19.99t",
+    "hp": 783,
+    "maxSpeed": null,
+    "engine": "2.55L V12",
+    "era": null
+  },
+  {
+    "name": "A-2D",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-2D.png",
+    "armaments": [
+      "77x493mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "21.57t",
+    "hp": 971,
+    "maxSpeed": null,
+    "engine": "2.55L V12",
+    "era": null
+  },
+  {
+    "name": "A-3A Pathfinder",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-3A Pathfinder.png",
+    "armaments": [
+      "57x455mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "18.10t",
+    "hp": 273,
+    "maxSpeed": null,
+    "engine": "1.77L V12",
+    "era": null
+  },
+  {
+    "name": "A-4A Beacon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-4A Beacon.png",
+    "armaments": [
+      "52x466mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "15.87t",
+    "hp": 562,
+    "maxSpeed": null,
+    "engine": "2.19L V10",
+    "era": null
+  },
+  {
+    "name": "A-4B Beacon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-4B Beacon.png",
+    "armaments": [
+      "52x466mm EC38-52A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "16.80t",
+    "hp": 562,
+    "maxSpeed": null,
+    "engine": "2.19L V10",
+    "era": null
+  },
+  {
+    "name": "A-4C Beacon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-4C Beacon.png",
+    "armaments": [
+      "52x660mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "18.07t",
+    "hp": 858,
+    "maxSpeed": null,
+    "engine": "2.19L V12",
+    "era": null
+  },
+  {
+    "name": "A-4D Beacon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-4D Beacon.png",
+    "armaments": [
+      "52x660mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "18.37t",
+    "hp": 939,
+    "maxSpeed": null,
+    "engine": "2.19L V12",
+    "era": null
+  },
+  {
+    "name": "A-5 Jester",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-5 Jester.png",
+    "armaments": [
+      "90x773mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "21.50t",
+    "hp": 467,
+    "maxSpeed": null,
+    "engine": "2.00L V12",
+    "era": null
+  },
+  {
+    "name": "A-5B Jester",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-5B Jester.png",
+    "armaments": [
+      "90x773mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "21.72t",
+    "hp": 499,
+    "maxSpeed": null,
+    "engine": "2.00L V12",
+    "era": null
+  },
+  {
+    "name": "A-5C Jester",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-5C Jester.png",
+    "armaments": [
+      "90x854mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "25.46t",
+    "hp": 832,
+    "maxSpeed": null,
+    "engine": "2.50L V16",
+    "era": null
+  },
+  {
+    "name": "A-5D Jester",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-5D Jester.png",
+    "armaments": [
+      "90x854mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "26.55t",
+    "hp": 858,
+    "maxSpeed": null,
+    "engine": "2.50L V20",
+    "era": null
+  },
+  {
+    "name": "A-5E Super Jester",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-5E Super Jester.png",
+    "armaments": [
+      "90x898mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "26.19t",
+    "hp": 858,
+    "maxSpeed": null,
+    "engine": "2.50L V20",
+    "era": null
+  },
+  {
+    "name": "A-6A Demolisher",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-6A Demolisher.png",
+    "armaments": [
+      "106x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "54.51t",
+    "hp": 993,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "A-6B Demolisher",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-6B Demolisher.png",
+    "armaments": [
+      "106x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "57.02t",
+    "hp": 1061,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "A-6C-125 Demolisher",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-6C-125 Demolisher.png",
+    "armaments": [
+      "125x460mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "57.68t",
+    "hp": 1592,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "GA-6-120",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/GA-6-120.png",
+    "armaments": [
+      "120x536mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "74.78t",
+    "hp": 1061,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "AD-7A Spider",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AD-7A Spider.png",
+    "armaments": [
+      "92x603mm EC42-92A",
+      "15x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "33.44t",
+    "hp": 784,
+    "maxSpeed": null,
+    "engine": "1.72L V18",
+    "era": null
+  },
+  {
+    "name": "AD-7B Spider",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AD-7B Spider.png",
+    "armaments": [
+      "92x638mm EC42-92B",
+      "15x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "34.21t",
+    "hp": 694,
+    "maxSpeed": null,
+    "engine": "1.72L V18",
+    "era": null
+  },
+  {
+    "name": "AD-7C Spider",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AD-7C Spider.png",
+    "armaments": [
+      "92x638mm EC42-92B",
+      "15x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "34.84t",
+    "hp": 694,
+    "maxSpeed": null,
+    "engine": "1.72L V18",
+    "era": null
+  },
+  {
+    "name": "AD-7D Super Spider",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AD-7D Super Spider.png",
+    "armaments": [
+      "108x600mm EC44-108A",
+      "15x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "38.71t",
+    "hp": 1127,
+    "maxSpeed": null,
+    "engine": "1.72L V18",
+    "era": null
+  },
+  {
+    "name": "AD-7E Hyper Spider",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AD-7E Hyper Spider.png",
+    "armaments": [
+      "108x600mm EC44-108A",
+      "15x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "39.00t",
+    "hp": 1132,
+    "maxSpeed": null,
+    "engine": "1.72L V18",
+    "era": null
+  },
+  {
+    "name": "AD-7E-(HVSS) Hyper Spider",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AD-7E-(HVSS) Hyper Spider.png",
+    "armaments": [
+      "108x600mm EC44-108A",
+      "15x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "35.32t",
+    "hp": 1132,
+    "maxSpeed": null,
+    "engine": "1.72L V18",
+    "era": null
+  },
+  {
+    "name": "AX-9A Scorpion",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AX-9A Scorpion.png",
+    "armaments": [
+      "90x954mm EOC44-90A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "34.51t",
+    "hp": 343,
+    "maxSpeed": null,
+    "engine": "2.33L V6",
+    "era": null
+  },
+  {
+    "name": "AX-9B Scorpion",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AX-9B Scorpion.png",
+    "armaments": [
+      "90x954mm EOC44-90A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "36.61t",
+    "hp": 343,
+    "maxSpeed": null,
+    "engine": "2.33L V6",
+    "era": null
+  },
+  {
+    "name": "A-10A Paragon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-10A Paragon.png",
+    "armaments": [
+      "140x703mm EC43-140A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "68.54t",
+    "hp": 1517,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "A-10B Paragon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-10B Paragon.png",
+    "armaments": [
+      "140x703mm EC43-140A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "70.68t",
+    "hp": 1517,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "A-10C-150 Paragon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-10C-150 Paragon.png",
+    "armaments": [
+      "150x865mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "78.93t",
+    "hp": 1523,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "A-10D-150 Paragon",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-10D-150 Paragon.png",
+    "armaments": [
+      "150x1184mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 6,
+    "mass": "81.27t",
+    "hp": 1528,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "A-11 Punisher",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-11 Punisher.png",
+    "armaments": [
+      "60x174mm Unnamed Cannon",
+      "60x278mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 6,
+    "mass": "37.10t",
+    "hp": 1517,
+    "maxSpeed": null,
+    "engine": "2.55L V20",
+    "era": null
+  },
+  {
+    "name": "A-12",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-12.png",
+    "armaments": [
+      "200x440mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "17.02t",
+    "hp": 354,
+    "maxSpeed": null,
+    "engine": "2.36L V6",
+    "era": null
+  },
+  {
+    "name": "AXTD-13",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AXTD-13.png",
+    "armaments": [
+      "72x876mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "19.16t",
+    "hp": 396,
+    "maxSpeed": null,
+    "engine": "1.32L V8",
+    "era": null
+  },
+  {
+    "name": "ATD-13 Savior",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/ATD-13 Savior.png",
+    "armaments": [
+      "72x876mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "27.19t",
+    "hp": 497,
+    "maxSpeed": null,
+    "engine": "1.32L V10",
+    "era": null
+  },
+  {
+    "name": "ATD-13B-108 Savior",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/ATD-13B-108 Savior.png",
+    "armaments": [
+      "92x811mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "28.45t",
+    "hp": 497,
+    "maxSpeed": null,
+    "engine": "1.32L V10",
+    "era": null
+  },
+  {
+    "name": "A-14A Almighty",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-14A Almighty.png",
+    "armaments": [
+      "140x900mm EC43-140A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "44.72t",
+    "hp": 599,
+    "maxSpeed": null,
+    "engine": "2.00L V12",
+    "era": null
+  },
+  {
+    "name": "A-14B Almighty",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-14B Almighty.png",
+    "armaments": [
+      "140x900mm EC43-140A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "47.14t",
+    "hp": 1273,
+    "maxSpeed": null,
+    "engine": "2.00L V18",
+    "era": null
+  },
+  {
+    "name": "A-14B-(HVSS) Almighty",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-14B-(HVSS) Almighty.png",
+    "armaments": [
+      "140x900mm EC43-140A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "45.35t",
+    "hp": 1278,
+    "maxSpeed": null,
+    "engine": "2.00L V18",
+    "era": null
+  },
+  {
+    "name": "A-14C-150 Almighty",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-14C-150 Almighty.png",
+    "armaments": [
+      "150x865mm EC50-150A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "48.41t",
+    "hp": 1278,
+    "maxSpeed": null,
+    "engine": "2.00L V18",
+    "era": null
+  },
+  {
+    "name": "A-14D-150 Almighty",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-14D-150 Almighty.png",
+    "armaments": [
+      "150x865mm EC50-150A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "48.23t",
+    "hp": 1270,
+    "maxSpeed": null,
+    "engine": "2.00L V18",
+    "era": null
+  },
+  {
+    "name": "A-15 Venalux",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-15 Venalux.png",
+    "armaments": [
+      "108x1000mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "28.36t",
+    "hp": 300,
+    "maxSpeed": null,
+    "engine": "2.00L V12",
+    "era": null
+  },
+  {
+    "name": "AX-16",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AX-16.png",
+    "armaments": [
+      "122x649mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "34.93t",
+    "hp": 620,
+    "maxSpeed": null,
+    "engine": "3.09L V8",
+    "era": null
+  },
+  {
+    "name": "A-17A",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-17A.png",
+    "armaments": [
+      "155x898mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "53.56t",
+    "hp": 802,
+    "maxSpeed": null,
+    "engine": "2.00L V16",
+    "era": null
+  },
+  {
+    "name": "T-17A",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/T-17A.png",
+    "armaments": [
+      "152x666mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "53.23t",
+    "hp": 1125,
+    "maxSpeed": null,
+    "engine": "2.00L V16",
+    "era": null
+  },
+  {
+    "name": "A-18",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-18.png",
+    "armaments": [
+      "90x649mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "17.55t",
+    "hp": 563,
+    "maxSpeed": null,
+    "engine": "2.00L V8",
+    "era": null
+  },
+  {
+    "name": "A-19A Ward",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-19A Ward.png",
+    "armaments": [
+      "110x369mm Unnamed Cannon",
+      "20x62mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "35.93t",
+    "hp": 606,
+    "maxSpeed": null,
+    "engine": "2.00L V10",
+    "era": null
+  },
+  {
+    "name": "A-20A Reclaimer",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-20A Reclaimer.png",
+    "armaments": [
+      "140x903mm EC43-140C"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "52.88t",
+    "hp": 964,
+    "maxSpeed": null,
+    "engine": "2.42L V12",
+    "era": null
+  },
+  {
+    "name": "A-400A Disciple",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-400A Disciple.png",
+    "armaments": [
+      "72x584mm EC45-72A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "21.58t",
+    "hp": 984,
+    "maxSpeed": null,
+    "engine": "2.19L V18",
+    "era": null
+  },
+  {
+    "name": "A-400ACS Disciple",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-400ACS Disciple.png",
+    "armaments": [
+      "140x401mm EC43-140B Compact"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "24.35t",
+    "hp": 984,
+    "maxSpeed": null,
+    "engine": "2.19L V18",
+    "era": null
+  },
+  {
+    "name": "A-400B Disciple",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-400B Disciple.png",
+    "armaments": [
+      "72x584mm EC45-72A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "22.58t",
+    "hp": 988,
+    "maxSpeed": null,
+    "engine": "2.19L V18",
+    "era": null
+  },
+  {
+    "name": "A-400C Disciple",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-400C Disciple.png",
+    "armaments": [
+      "72x584mm EC45-72A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "22.59t",
+    "hp": 1358,
+    "maxSpeed": null,
+    "engine": "2.19L V18",
+    "era": null
+  },
+  {
+    "name": "ATD-21A Brushcutter",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/ATD-21A Brushcutter.png",
+    "armaments": [
+      "125x1027mm EC46-125A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "29.57t",
+    "hp": 871,
+    "maxSpeed": null,
+    "engine": "2.00L V14",
+    "era": null
+  },
+  {
+    "name": "G-1A Redux",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1A Redux.png",
+    "armaments": [
+      "140x903mm EC43-140C"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "72.85t",
+    "hp": 1290,
+    "maxSpeed": null,
+    "engine": "2.42L V16",
+    "era": null
+  },
+  {
+    "name": "G-1B Redux",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1B Redux.png",
+    "armaments": [
+      "140x903mm EC43-140C"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "74.44t",
+    "hp": 1452,
+    "maxSpeed": null,
+    "engine": "2.42L V18",
+    "era": null
+  },
+  {
+    "name": "G-1B2-200 ",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1B2-200 .png",
+    "armaments": [
+      "200x400mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "56.22t",
+    "hp": 667,
+    "maxSpeed": null,
+    "engine": "1.43L V14",
+    "era": null
+  },
+  {
+    "name": "G-1C Redux",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1C Redux.png",
+    "armaments": [
+      "140x903mm EC43-140C"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "74.56t",
+    "hp": 1452,
+    "maxSpeed": null,
+    "engine": "2.42L V18",
+    "era": null
+  },
+  {
+    "name": "G-1CA Redux",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1CA Redux.png",
+    "armaments": [
+      "140x903mm EC43-140C"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "73.35t",
+    "hp": 1452,
+    "maxSpeed": null,
+    "engine": "2.42L V18",
+    "era": null
+  },
+  {
+    "name": "G-1CS (Siege)",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1CS (Siege).png",
+    "armaments": [
+      "210x400mm EC61-200A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "75.94t",
+    "hp": 1452,
+    "maxSpeed": null,
+    "engine": "2.42L V18",
+    "era": null
+  },
+  {
+    "name": "G-1-14",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1-14.png",
+    "armaments": [
+      "150x865mm EC50-150A"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "72.10t",
+    "hp": 1452,
+    "maxSpeed": null,
+    "engine": "2.42L V18",
+    "era": null
   }
 ]
