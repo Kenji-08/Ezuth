@@ -1,7 +1,7 @@
 [
   {
     "name": "Edril",
-    "flag": "../Images/flags/edril.png",
+    "flag": "../Images/Edril-flag.png",
     "description": "A mountainous nation with a strong military tradition and a wide variety of tanks.  ",
     "tanksPage": "EdrilTanks.html",
     "more": "#"
