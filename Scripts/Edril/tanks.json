@@ -17,5 +17,43 @@
     "maxSpeed": "34 km/h",
     "engine": "2.73L V12",
     "era": "Interwar"
+  },
+  {
+    "name": "A-1B",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-1B.png",
+    "armaments": [
+      "37x536mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "14.85t",
+    "hp": 518,
+    "maxSpeed": null,
+    "engine": "2.73L V12",
+    "era": "Interwar"
+  },
+  {
+    "name": "A-1C-54",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/A-1C-54.png",
+    "armaments": [
+      "54x692mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "15.43t",
+    "hp": 518,
+    "maxSpeed": null,
+    "engine": "2.73L V12",
+    "era": "Interwar"
   }
 ]
