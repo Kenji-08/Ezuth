@@ -1,8 +1,10 @@
+let nation = "Edril"
+
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('tank-list');
   if (!container) return;
 
-  fetch('../Scripts/Edril/tanks.json')
+  fetch(`../Scripts/${nation}/tanks.json`)
     .then(response => {
       if (!response.ok) throw new Error('Failed to load tanks.json');
       return response.json();
@@ -26,6 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const desig = document.createElement('p');
+        desig.className = 'tank-designation';
         desig.textContent = tank.designation || '';
         card.appendChild(desig);
 
@@ -37,9 +40,8 @@ document.addEventListener('DOMContentLoaded', () => {
           card.appendChild(img);
         }
 
-        if (Array.isArray(tank.armaments)) {
+        if (Array.isArray(tank.armaments) && tank.armaments.length) {
           const h = document.createElement('p');
-          h.textContent = 'Armaments';
           card.appendChild(h);
 
           const ol = document.createElement('ol');
@@ -55,15 +57,23 @@ document.addEventListener('DOMContentLoaded', () => {
         stats.className = 'tank-stats';
         const addStat = (k, v) => {
           if (v === undefined || v === null) return;
+          const s = String(v).trim();
+          if (s === '' || s.toLowerCase() === 'null' || s.toLowerCase() === 'none') return;
           const li = document.createElement('li');
-          li.textContent = `${k}: ${v}`;
+          li.textContent = `${k}: ${s}`;
           stats.appendChild(li);
         };
+
+        // core stats (map to new JSON keys)
+        addStat('Turret Rotation', tank.rotation);
+        addStat('Vertical Guidance', tank.vertical);
+        addStat('Reloading Rate', tank.reload);
         addStat('Crew', tank.crew);
         addStat('Mass', tank.mass);
         addStat('HP', tank.hp);
         addStat('Penetration', tank.penetration);
         addStat('Max Speed', tank.maxSpeed);
+        addStat('Engine', tank.engine);
         addStat('Era', tank.era);
         card.appendChild(stats);
 

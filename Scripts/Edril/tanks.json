@@ -7,11 +7,15 @@
     "armaments": [
         "37x180mm EC35-37"
     ],
+    "rotation": "19.2deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "3.3s",
+    "penetration": "42mm",
     "crew": 3,
     "mass": "15.78t",
     "hp": 568,
-    "penetration": "42mm",
     "maxSpeed": "34 km/h",
+    "engine": "2.73L V12",
     "era": "Interwar"
   }
 ]
