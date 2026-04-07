@@ -1,3 +1,7 @@
 Add all data for Edril, Skolia, VAC
-Styling for tank cards, home page, nations
+Final Styling for tank cards, home page, nations
 fill out textual content for home page, nation descs,
+Get tank images
+Get tank stats
+Get all designations for Skolia <- NEXT
+Consolidate data files by 

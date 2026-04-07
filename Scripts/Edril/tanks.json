@@ -73,7 +73,7 @@
     "hp": 506,
     "maxSpeed": null,
     "engine": "2.55L V12",
-    "era": null
+    "era": "Earlywar"
   },
   {
     "name": "A-2B",
@@ -92,7 +92,7 @@
     "hp": 506,
     "maxSpeed": null,
     "engine": "2.55L V12",
-    "era": null
+    "era": "Earlywar"
   },
   {
     "name": "A-2C",
@@ -111,7 +111,7 @@
     "hp": 783,
     "maxSpeed": null,
     "engine": "2.55L V12",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "A-2D",
@@ -130,7 +130,7 @@
     "hp": 971,
     "maxSpeed": null,
     "engine": "2.55L V12",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-3A Pathfinder",
@@ -149,7 +149,7 @@
     "hp": 273,
     "maxSpeed": null,
     "engine": "1.77L V12",
-    "era": null
+    "era": "Earlywar"
   },
   {
     "name": "A-4A Beacon",
@@ -168,7 +168,7 @@
     "hp": 562,
     "maxSpeed": null,
     "engine": "2.19L V10",
-    "era": null
+    "era": "Earlywar"
   },
   {
     "name": "A-4B Beacon",
@@ -187,7 +187,7 @@
     "hp": 562,
     "maxSpeed": null,
     "engine": "2.19L V10",
-    "era": null
+    "era": "Earlywar"
   },
   {
     "name": "A-4C Beacon",
@@ -206,7 +206,7 @@
     "hp": 858,
     "maxSpeed": null,
     "engine": "2.19L V12",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "A-4D Beacon",
@@ -225,7 +225,7 @@
     "hp": 939,
     "maxSpeed": null,
     "engine": "2.19L V12",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-5 Jester",
@@ -244,7 +244,7 @@
     "hp": 467,
     "maxSpeed": null,
     "engine": "2.00L V12",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "A-5B Jester",
@@ -263,7 +263,7 @@
     "hp": 499,
     "maxSpeed": null,
     "engine": "2.00L V12",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-5C Jester",
@@ -282,7 +282,7 @@
     "hp": 832,
     "maxSpeed": null,
     "engine": "2.50L V16",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-5D Jester",
@@ -301,7 +301,7 @@
     "hp": 858,
     "maxSpeed": null,
     "engine": "2.50L V20",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-5E Super Jester",
@@ -320,7 +320,7 @@
     "hp": 858,
     "maxSpeed": null,
     "engine": "2.50L V20",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-6A Demolisher",
@@ -339,7 +339,7 @@
     "hp": 993,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "A-6B Demolisher",
@@ -358,7 +358,7 @@
     "hp": 1061,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "A-6C-125 Demolisher",
@@ -377,7 +377,7 @@
     "hp": 1592,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "GA-6-120",
@@ -396,7 +396,7 @@
     "hp": 1061,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "AD-7A Spider",
@@ -416,7 +416,7 @@
     "hp": 784,
     "maxSpeed": null,
     "engine": "1.72L V18",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "AD-7B Spider",
@@ -436,7 +436,7 @@
     "hp": 694,
     "maxSpeed": null,
     "engine": "1.72L V18",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "AD-7C Spider",
@@ -456,7 +456,7 @@
     "hp": 694,
     "maxSpeed": null,
     "engine": "1.72L V18",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "AD-7D Super Spider",
@@ -476,7 +476,7 @@
     "hp": 1127,
     "maxSpeed": null,
     "engine": "1.72L V18",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "AD-7E Hyper Spider",
@@ -521,7 +521,7 @@
   {
     "name": "AX-9A Scorpion",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Experimental TD",
     "image": "../Images/tanks/AX-9A Scorpion.png",
     "armaments": [
       "90x954mm EOC44-90A"
@@ -535,12 +535,12 @@
     "hp": 343,
     "maxSpeed": null,
     "engine": "2.33L V6",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "AX-9B Scorpion",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Experimental TD",
     "image": "../Images/tanks/AX-9B Scorpion.png",
     "armaments": [
       "90x954mm EOC44-90A"
@@ -554,7 +554,7 @@
     "hp": 343,
     "maxSpeed": null,
     "engine": "2.33L V6",
-    "era": null
+    "era": "Midwar"
   },
   {
     "name": "A-10A Paragon",
@@ -573,7 +573,7 @@
     "hp": 1517,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-10B Paragon",
@@ -592,7 +592,7 @@
     "hp": 1517,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-10C-150 Paragon",
@@ -611,7 +611,7 @@
     "hp": 1523,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-10D-150 Paragon",
@@ -630,7 +630,7 @@
     "hp": 1528,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "A-11 Punisher",
@@ -650,7 +650,7 @@
     "hp": 1517,
     "maxSpeed": null,
     "engine": "2.55L V20",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-12",
@@ -669,7 +669,7 @@
     "hp": 354,
     "maxSpeed": null,
     "engine": "2.36L V6",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "AXTD-13",
@@ -688,7 +688,7 @@
     "hp": 396,
     "maxSpeed": null,
     "engine": "1.32L V8",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "ATD-13 Savior",
@@ -707,7 +707,7 @@
     "hp": 497,
     "maxSpeed": null,
     "engine": "1.32L V10",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "ATD-13B-108 Savior",
@@ -726,7 +726,7 @@
     "hp": 497,
     "maxSpeed": null,
     "engine": "1.32L V10",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-14A Almighty",
@@ -745,7 +745,7 @@
     "hp": 599,
     "maxSpeed": null,
     "engine": "2.00L V12",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-14B Almighty",
@@ -764,7 +764,7 @@
     "hp": 1273,
     "maxSpeed": null,
     "engine": "2.00L V18",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-14B-(HVSS) Almighty",
@@ -783,7 +783,7 @@
     "hp": 1278,
     "maxSpeed": null,
     "engine": "2.00L V18",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-14C-150 Almighty",
@@ -802,7 +802,7 @@
     "hp": 1278,
     "maxSpeed": null,
     "engine": "2.00L V18",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-14D-150 Almighty",
@@ -821,7 +821,7 @@
     "hp": 1270,
     "maxSpeed": null,
     "engine": "2.00L V18",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "A-15 Venalux",
@@ -840,7 +840,7 @@
     "hp": 300,
     "maxSpeed": null,
     "engine": "2.00L V12",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "AX-16",
@@ -859,7 +859,7 @@
     "hp": 620,
     "maxSpeed": null,
     "engine": "3.09L V8",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-17A",
@@ -878,7 +878,7 @@
     "hp": 802,
     "maxSpeed": null,
     "engine": "2.00L V16",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "T-17A",
@@ -897,7 +897,7 @@
     "hp": 1125,
     "maxSpeed": null,
     "engine": "2.00L V16",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-18",
@@ -916,7 +916,7 @@
     "hp": 563,
     "maxSpeed": null,
     "engine": "2.00L V8",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-19A Ward",
@@ -936,7 +936,7 @@
     "hp": 606,
     "maxSpeed": null,
     "engine": "2.00L V10",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-20A Reclaimer",
@@ -955,7 +955,7 @@
     "hp": 964,
     "maxSpeed": null,
     "engine": "2.42L V12",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-400A Disciple",
@@ -974,7 +974,7 @@
     "hp": 984,
     "maxSpeed": null,
     "engine": "2.19L V18",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-400ACS Disciple",
@@ -993,7 +993,7 @@
     "hp": 984,
     "maxSpeed": null,
     "engine": "2.19L V18",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "A-400B Disciple",
@@ -1012,7 +1012,7 @@
     "hp": 988,
     "maxSpeed": null,
     "engine": "2.19L V18",
-    "era": null
+    "era": "Latewar"
   },
   {
     "name": "A-400C Disciple",
@@ -1031,7 +1031,7 @@
     "hp": 1358,
     "maxSpeed": null,
     "engine": "2.19L V18",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "ATD-21A Brushcutter",
@@ -1050,7 +1050,7 @@
     "hp": 871,
     "maxSpeed": null,
     "engine": "2.00L V14",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "G-1A Redux",
@@ -1069,7 +1069,7 @@
     "hp": 1290,
     "maxSpeed": null,
     "engine": "2.42L V16",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "G-1B Redux",
@@ -1088,7 +1088,7 @@
     "hp": 1452,
     "maxSpeed": null,
     "engine": "2.42L V18",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "G-1B2-200 ",
@@ -1107,7 +1107,7 @@
     "hp": 667,
     "maxSpeed": null,
     "engine": "1.43L V14",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "G-1C Redux",
@@ -1126,7 +1126,7 @@
     "hp": 1452,
     "maxSpeed": null,
     "engine": "2.42L V18",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "G-1CA Redux",
@@ -1145,7 +1145,7 @@
     "hp": 1452,
     "maxSpeed": null,
     "engine": "2.42L V18",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "G-1CS (Siege)",
@@ -1164,7 +1164,7 @@
     "hp": 1452,
     "maxSpeed": null,
     "engine": "2.42L V18",
-    "era": null
+    "era": "EarlyColdWar"
   },
   {
     "name": "G-1-14",
@@ -1183,6 +1183,6 @@
     "hp": 1452,
     "maxSpeed": null,
     "engine": "2.42L V18",
-    "era": null
+    "era": "EarlyColdWar"
   }
 ]

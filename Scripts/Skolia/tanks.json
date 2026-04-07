@@ -22,7 +22,7 @@
   {
     "name": "TK-2",
     "flag": "../Images/flags/Skolia.png",
-    "designation": null,
+    "designation": "Tankette",
     "image": "../Images/tanks/TK-2.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
@@ -41,7 +41,7 @@
   {
     "name": "TK-3",
     "flag": "../Images/flags/Skolia.png",
-    "designation": null,
+    "designation": "Tankette",
     "image": "../Images/tanks/TK-3.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
@@ -60,7 +60,7 @@
   {
     "name": "TK-4",
     "flag": "../Images/flags/Skolia.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/TK-4.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
@@ -79,7 +79,7 @@
   {
     "name": "TK-4 (70)",
     "flag": "../Images/flags/Skolia.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/TK-4 (70).png",
     "armaments": [
       "70x275mm Unnamed Cannon"
@@ -98,7 +98,7 @@
   {
     "name": "TK-4 Mod. 1",
     "flag": "../Images/flags/Skolia.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/TK-4 Mod. 1.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
@@ -117,7 +117,7 @@
   {
     "name": "TK-5",
     "flag": "../Images/flags/Skolia.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/TK-5.png",
     "armaments": [
       "70x298mm Unnamed Cannon"
