@@ -42,12 +42,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (Array.isArray(tank.armaments) && tank.armaments.length) {
           const h = document.createElement('p');
+          h.className = 'armaments-title';
+          h.textContent = 'Armaments';
           card.appendChild(h);
 
           const ol = document.createElement('ol');
           tank.armaments.forEach(a => {
             const li = document.createElement('li');
-            li.textContent = a;
+            const cleaned = String(a).replace(/\bUnnamed\b\s*/gi, '').trim();
+            li.textContent = cleaned;
             ol.appendChild(li);
           });
           card.appendChild(ol);
