@@ -8,7 +8,7 @@
   },
   {
     "name": "Skolia",
-    "flag": "../Images/placeholder.png",
+    "flag": "../Images/flags/Skolia.png",
     "description": "Hilly nation with dreary weather all of the time but more than makes up for it with a wide range of tanks.",
     "tanksPage": "SkoliaTanks.html",
     "more": "#"
