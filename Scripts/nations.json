@@ -8,13 +8,13 @@
   },
   {
     "name": "Skolia",
-    "flag": "../Images/flags/skolia.png",
+    "flag": "../Images/placeholder.png",
     "description": "Hilly nation with dreary weather all of the time but more than makes up for it with a wide range of tanks.",
     "tanksPage": "SkoliaTanks.html",
     "more": "#"
   },
   {"name": "Voltaren Armored Corp.",
-    "flag": "../Images/flags/voltaren.png",
+    "flag": "../Images/placeholder.png",
     "description": "A powerful corporation that produces many heavy tanks.",
     "tanksPage": "VACTanks.html",
     "more": "#"
