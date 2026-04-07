@@ -119,18 +119,18 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-2D.png",
     "armaments": [
-      "77x493mm Unnamed Cannon"
+      "77x493mm EC46-77A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "30.3deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "3.61s",
+    "penetration": "176mm",
     "crew": 4,
     "mass": "21.57t",
     "hp": 971,
     "maxSpeed": null,
     "engine": "2.55L V12",
-    "era": "Korea"
+    "era": "Latewar"
   },
   {
     "name": "A-3A Pathfinder",
@@ -157,12 +157,12 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-4A Beacon.png",
     "armaments": [
-      "52x466mm Unnamed Cannon"
+      "52x466mm EC38-52A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "15.1deg/s",
+    "vertical": "-10 / 30.4deg",
+    "reload": "3.24s",
+    "penetration": "92mm",
     "crew": 3,
     "mass": "15.87t",
     "hp": 562,
@@ -233,12 +233,12 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5 Jester.png",
     "armaments": [
-      "90x773mm Unnamed Cannon"
+      "90x773mm EC42-90A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "16.3deg/s",
+    "vertical": "-15.9 / 7deg",
+    "reload": "4.8s",
+    "penetration": "170mm",
     "crew": 5,
     "mass": "21.50t",
     "hp": 467,
@@ -328,12 +328,12 @@
     "designation": "Heavy Tank",
     "image": "../Images/tanks/A-6A Demolisher.png",
     "armaments": [
-      "106x360mm Unnamed Cannon"
+      "106x360mm EC42-106A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "15.7deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "2.93s",
+    "penetration": "128mm",
     "crew": 5,
     "mass": "54.51t",
     "hp": 993,
@@ -405,12 +405,12 @@
     "image": "../Images/tanks/AD-7A Spider.png",
     "armaments": [
       "92x603mm EC42-92A",
-      "15x360mm Unnamed Cannon"
+      "15x360mm HMG"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-12 / 24.6deg",
+    "reload": "4.15s",
+    "penetration": "147mm",
     "crew": 4,
     "mass": "33.44t",
     "hp": 784,
@@ -564,10 +564,10 @@
     "armaments": [
       "140x703mm EC43-140A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "19.2deg/s",
+    "vertical": "-10.5 / 39deg",
+    "reload": "17s",
+    "penetration": "266mm",
     "crew": 5,
     "mass": "68.54t",
     "hp": 1517,
@@ -736,10 +736,10 @@
     "armaments": [
       "140x900mm EC43-140A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20.3deg/s",
+    "vertical": "6.8 / 25deg",
+    "reload": "15.95s",
+    "penetration": "296mm",
     "crew": 5,
     "mass": "44.72t",
     "hp": 599,
@@ -867,12 +867,12 @@
     "designation": "Medium Tank",
     "image": "../Images/tanks/A-17A.png",
     "armaments": [
-      "155x898mm Unnamed Cannon"
+      "155x898mm Autoloaded EC44-155A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-8 / 9deg",
+    "reload": "~6s",
+    "penetration": "323mm",
     "crew": 5,
     "mass": "53.56t",
     "hp": 802,
@@ -905,12 +905,12 @@
     "designation": "Airdrop Tank",
     "image": "../Images/tanks/A-18.png",
     "armaments": [
-      "90x649mm Unnamed Cannon"
+      "90x649mm EC51-90A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "41.2deg/s",
+    "vertical": "-6 / 18deg",
+    "reload": "3.89s",
+    "penetration": "215mm",
     "crew": 3,
     "mass": "17.55t",
     "hp": 563,

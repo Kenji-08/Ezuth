@@ -4,4 +4,4 @@ fill out textual content for home page, nation descs,
 Get tank images
 Get tank stats
 Get all designations for Skolia <- NEXT
-Consolidate data files by 
+Optimize data files
