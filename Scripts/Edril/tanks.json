@@ -5,7 +5,7 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-1.png",
     "armaments": [
-        "37x180mm EC35-37"
+      "37x180mm EC35-37"
     ],
     "rotation": "19.2deg/s",
     "vertical": "-10 / 20deg",
@@ -21,7 +21,7 @@
   {
     "name": "A-1B",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-1B.png",
     "armaments": [
       "37x536mm Unnamed Cannon"
@@ -40,7 +40,7 @@
   {
     "name": "A-1C-54",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-1C-54.png",
     "armaments": [
       "54x692mm Unnamed Cannon"
@@ -59,7 +59,7 @@
   {
     "name": "A-2A",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-2A.png",
     "armaments": [
       "77x493mm Unnamed Cannon"
@@ -78,7 +78,7 @@
   {
     "name": "A-2B",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-2B.png",
     "armaments": [
       "77x493mm Unnamed Cannon"
@@ -97,7 +97,7 @@
   {
     "name": "A-2C",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-2C.png",
     "armaments": [
       "77x493mm Unnamed Cannon"
@@ -116,7 +116,7 @@
   {
     "name": "A-2D",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-2D.png",
     "armaments": [
       "77x493mm Unnamed Cannon"
@@ -135,7 +135,7 @@
   {
     "name": "A-3A Pathfinder",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-3A Pathfinder.png",
     "armaments": [
       "57x455mm Unnamed Cannon"
@@ -154,7 +154,7 @@
   {
     "name": "A-4A Beacon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-4A Beacon.png",
     "armaments": [
       "52x466mm Unnamed Cannon"
@@ -173,7 +173,7 @@
   {
     "name": "A-4B Beacon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-4B Beacon.png",
     "armaments": [
       "52x466mm EC38-52A"
@@ -192,7 +192,7 @@
   {
     "name": "A-4C Beacon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-4C Beacon.png",
     "armaments": [
       "52x660mm Unnamed Cannon"
@@ -211,7 +211,7 @@
   {
     "name": "A-4D Beacon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-4D Beacon.png",
     "armaments": [
       "52x660mm Unnamed Cannon"
@@ -230,7 +230,7 @@
   {
     "name": "A-5 Jester",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5 Jester.png",
     "armaments": [
       "90x773mm Unnamed Cannon"
@@ -249,7 +249,7 @@
   {
     "name": "A-5B Jester",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5B Jester.png",
     "armaments": [
       "90x773mm Unnamed Cannon"
@@ -268,7 +268,7 @@
   {
     "name": "A-5C Jester",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5C Jester.png",
     "armaments": [
       "90x854mm Unnamed Cannon"
@@ -287,7 +287,7 @@
   {
     "name": "A-5D Jester",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5D Jester.png",
     "armaments": [
       "90x854mm Unnamed Cannon"
@@ -306,7 +306,7 @@
   {
     "name": "A-5E Super Jester",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5E Super Jester.png",
     "armaments": [
       "90x898mm Unnamed Cannon"
@@ -325,7 +325,7 @@
   {
     "name": "A-6A Demolisher",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/A-6A Demolisher.png",
     "armaments": [
       "106x360mm Unnamed Cannon"
@@ -344,7 +344,7 @@
   {
     "name": "A-6B Demolisher",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/A-6B Demolisher.png",
     "armaments": [
       "106x360mm Unnamed Cannon"
@@ -363,7 +363,7 @@
   {
     "name": "A-6C-125 Demolisher",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/A-6C-125 Demolisher.png",
     "armaments": [
       "125x460mm Unnamed Cannon"
@@ -382,7 +382,7 @@
   {
     "name": "GA-6-120",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/GA-6-120.png",
     "armaments": [
       "120x536mm Unnamed Cannon"
@@ -401,7 +401,7 @@
   {
     "name": "AD-7A Spider",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/AD-7A Spider.png",
     "armaments": [
       "92x603mm EC42-92A",
@@ -421,7 +421,7 @@
   {
     "name": "AD-7B Spider",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/AD-7B Spider.png",
     "armaments": [
       "92x638mm EC42-92B",
@@ -441,7 +441,7 @@
   {
     "name": "AD-7C Spider",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/AD-7C Spider.png",
     "armaments": [
       "92x638mm EC42-92B",
@@ -461,7 +461,7 @@
   {
     "name": "AD-7D Super Spider",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/AD-7D Super Spider.png",
     "armaments": [
       "108x600mm EC44-108A",
@@ -481,7 +481,7 @@
   {
     "name": "AD-7E Hyper Spider",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/AD-7E Hyper Spider.png",
     "armaments": [
       "108x600mm EC44-108A",
@@ -501,7 +501,7 @@
   {
     "name": "AD-7E-(HVSS) Hyper Spider",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/AD-7E-(HVSS) Hyper Spider.png",
     "armaments": [
       "108x600mm EC44-108A",
@@ -559,7 +559,7 @@
   {
     "name": "A-10A Paragon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/A-10A Paragon.png",
     "armaments": [
       "140x703mm EC43-140A"
@@ -578,7 +578,7 @@
   {
     "name": "A-10B Paragon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/A-10B Paragon.png",
     "armaments": [
       "140x703mm EC43-140A"
@@ -597,7 +597,7 @@
   {
     "name": "A-10C-150 Paragon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/A-10C-150 Paragon.png",
     "armaments": [
       "150x865mm Unnamed Cannon"
@@ -616,7 +616,7 @@
   {
     "name": "A-10D-150 Paragon",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Heavy Tank",
     "image": "../Images/tanks/A-10D-150 Paragon.png",
     "armaments": [
       "150x1184mm Unnamed Cannon"
@@ -635,7 +635,7 @@
   {
     "name": "A-11 Punisher",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "SPAA",
     "image": "../Images/tanks/A-11 Punisher.png",
     "armaments": [
       "60x174mm Unnamed Cannon",
@@ -655,7 +655,7 @@
   {
     "name": "A-12",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Self Propelled Artillery",
     "image": "../Images/tanks/A-12.png",
     "armaments": [
       "200x440mm Unnamed Cannon"
@@ -674,7 +674,7 @@
   {
     "name": "AXTD-13",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/AXTD-13.png",
     "armaments": [
       "72x876mm Unnamed Cannon"
@@ -693,7 +693,7 @@
   {
     "name": "ATD-13 Savior",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/ATD-13 Savior.png",
     "armaments": [
       "72x876mm Unnamed Cannon"
@@ -712,7 +712,7 @@
   {
     "name": "ATD-13B-108 Savior",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/ATD-13B-108 Savior.png",
     "armaments": [
       "92x811mm Unnamed Cannon"
@@ -731,7 +731,7 @@
   {
     "name": "A-14A Almighty",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/A-14A Almighty.png",
     "armaments": [
       "140x900mm EC43-140A"
@@ -750,7 +750,7 @@
   {
     "name": "A-14B Almighty",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/A-14B Almighty.png",
     "armaments": [
       "140x900mm EC43-140A"
@@ -769,7 +769,7 @@
   {
     "name": "A-14B-(HVSS) Almighty",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/A-14B-(HVSS) Almighty.png",
     "armaments": [
       "140x900mm EC43-140A"
@@ -788,7 +788,7 @@
   {
     "name": "A-14C-150 Almighty",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/A-14C-150 Almighty.png",
     "armaments": [
       "150x865mm EC50-150A"
@@ -807,7 +807,7 @@
   {
     "name": "A-14D-150 Almighty",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/A-14D-150 Almighty.png",
     "armaments": [
       "150x865mm EC50-150A"
@@ -826,7 +826,7 @@
   {
     "name": "A-15 Venalux",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-15 Venalux.png",
     "armaments": [
       "108x1000mm Unnamed Cannon"
@@ -845,7 +845,7 @@
   {
     "name": "AX-16",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Experimental Tank",
     "image": "../Images/tanks/AX-16.png",
     "armaments": [
       "122x649mm Unnamed Cannon"
@@ -864,7 +864,7 @@
   {
     "name": "A-17A",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/A-17A.png",
     "armaments": [
       "155x898mm Unnamed Cannon"
@@ -883,7 +883,7 @@
   {
     "name": "T-17A",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Medium Tank",
     "image": "../Images/tanks/T-17A.png",
     "armaments": [
       "152x666mm Unnamed Cannon"
@@ -902,7 +902,7 @@
   {
     "name": "A-18",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Airdrop Tank",
     "image": "../Images/tanks/A-18.png",
     "armaments": [
       "90x649mm Unnamed Cannon"
@@ -921,7 +921,7 @@
   {
     "name": "A-19A Ward",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Siege Tank",
     "image": "../Images/tanks/A-19A Ward.png",
     "armaments": [
       "110x369mm Unnamed Cannon",
@@ -941,7 +941,7 @@
   {
     "name": "A-20A Reclaimer",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Failed MBT",
     "image": "../Images/tanks/A-20A Reclaimer.png",
     "armaments": [
       "140x903mm EC43-140C"
@@ -960,7 +960,7 @@
   {
     "name": "A-400A Disciple",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-400A Disciple.png",
     "armaments": [
       "72x584mm EC45-72A"
@@ -979,7 +979,7 @@
   {
     "name": "A-400ACS Disciple",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-400ACS Disciple.png",
     "armaments": [
       "140x401mm EC43-140B Compact"
@@ -998,7 +998,7 @@
   {
     "name": "A-400B Disciple",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-400B Disciple.png",
     "armaments": [
       "72x584mm EC45-72A"
@@ -1017,7 +1017,7 @@
   {
     "name": "A-400C Disciple",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/A-400C Disciple.png",
     "armaments": [
       "72x584mm EC45-72A"
@@ -1036,7 +1036,7 @@
   {
     "name": "ATD-21A Brushcutter",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Tank Destroyer",
     "image": "../Images/tanks/ATD-21A Brushcutter.png",
     "armaments": [
       "125x1027mm EC46-125A"
@@ -1055,7 +1055,7 @@
   {
     "name": "G-1A Redux",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/G-1A Redux.png",
     "armaments": [
       "140x903mm EC43-140C"
@@ -1074,7 +1074,7 @@
   {
     "name": "G-1B Redux",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/G-1B Redux.png",
     "armaments": [
       "140x903mm EC43-140C"
@@ -1093,7 +1093,7 @@
   {
     "name": "G-1B2-200 ",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Self Propelled Artillery",
     "image": "../Images/tanks/G-1B2-200 .png",
     "armaments": [
       "200x400mm Unnamed Cannon"
@@ -1112,7 +1112,7 @@
   {
     "name": "G-1C Redux",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/G-1C Redux.png",
     "armaments": [
       "140x903mm EC43-140C"
@@ -1131,7 +1131,7 @@
   {
     "name": "G-1CA Redux",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/G-1CA Redux.png",
     "armaments": [
       "140x903mm EC43-140C"
@@ -1150,7 +1150,7 @@
   {
     "name": "G-1CS (Siege)",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "Siege Tank",
     "image": "../Images/tanks/G-1CS (Siege).png",
     "armaments": [
       "210x400mm EC61-200A"
@@ -1169,7 +1169,7 @@
   {
     "name": "G-1-14",
     "flag": "../Images/flags/edril.png",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/G-1-14.png",
     "armaments": [
       "150x865mm EC50-150A"
