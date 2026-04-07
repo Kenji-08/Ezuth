@@ -1,350 +1,59 @@
 [
   {
-    "name": "TK-1",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Tankette",
-    "image": "../Images/tanks/TK-1.png",
-    "armaments": [
-        "50x275mm SK50"
-    ],
-    "rotation": "20deg/s",
-    "vertical": "-10 / 20deg",
-    "horizontal": "-8 / 16.2deg",
-    "reload": "1.85s",
-    "penetration": "53mm",
-    "crew": 2,
-    "mass": "7.1t",
-    "hp": 223,
-    "maxSpeed": "null",
-    "engine": "1.85L V6",
-    "era": "Interwar"
-  },
-  {
-    "name": "TK-2",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Tankette",
-    "image": "../Images/tanks/TK-2.png",
-    "armaments": [
-      "50x275mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 1,
-    "mass": "6.59t",
-    "hp": 248,
-    "maxSpeed": null,
-    "engine": "1.85L V6",
-    "era": null
-  },
-  {
-    "name": "TK-3",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Tankette",
-    "image": "../Images/tanks/TK-3.png",
-    "armaments": [
-      "50x275mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 1,
-    "mass": "7.68t",
-    "hp": 248,
-    "maxSpeed": null,
-    "engine": "1.85L V6",
-    "era": null
-  },
-  {
-    "name": "TK-4",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Light Tank",
-    "image": "../Images/tanks/TK-4.png",
-    "armaments": [
-      "50x275mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 3,
-    "mass": "9.33t",
-    "hp": 243,
-    "maxSpeed": null,
-    "engine": "1.85L V6",
-    "era": null
-  },
-  {
-    "name": "TK-4 (70)",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Light Tank",
-    "image": "../Images/tanks/TK-4 (70).png",
-    "armaments": [
-      "70x275mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 3,
-    "mass": "17.66t",
-    "hp": 254,
-    "maxSpeed": null,
-    "engine": "1.85L V6",
-    "era": null
-  },
-  {
-    "name": "TK-4 Mod. 1",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Light Tank",
-    "image": "../Images/tanks/TK-4 Mod. 1.png",
-    "armaments": [
-      "50x275mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 3,
-    "mass": "16.07t",
-    "hp": 254,
-    "maxSpeed": null,
-    "engine": "1.85L V6",
-    "era": null
-  },
-  {
-    "name": "TK-5",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Heavy Tank",
-    "image": "../Images/tanks/TK-5.png",
-    "armaments": [
-      "70x298mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "16.94t",
-    "hp": 486,
-    "maxSpeed": null,
-    "engine": "1.85L V12",
-    "era": null
-  },
-  {
-    "name": "TK-6",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": "Landship",
-    "image": "../Images/tanks/TK-6.png",
-    "armaments": [
-        "70x298mm Cannon | 594 m/s | 76mm pen",
-
-        "2 50x180mm Cannon | 533 m/s | 46mm pen",
-
-        "2 70x93mm Cannon | 344 m/s | 35mm pen"
-
-    ],
-    "rotation": "3.6deg/s | 12deg/s | 3.6deg/s",
-    "vertical": "-15.7 / 25.9deg | -12.4 / 45deg | -10 / 20deg",   
-    "reload": "3.62s | 2.57s | 2.09s",
-    "penetration": "76mm (70x298mm)",
-    "crew": 7,
-    "mass": "27.54t",
-    "hp": 450,
-    "maxSpeed": "22 km/h",
-    "engine": "1.85L V12",
-    "era": "Interwar"
-  },
-  {
-    "name": "Charlotte I",
+    "name": "Castle 122 Mod 1",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Charlotte I.png",
+    "image": "../Images/tanks/Castle 122 Mod 1.png",
     "armaments": [
-      "50x275mm Unnamed Cannon"
+      "122x512mm Unnamed Cannon"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
     "crew": 4,
-    "mass": "12.77t",
-    "hp": 280,
+    "mass": "48.64t",
+    "hp": 439,
     "maxSpeed": null,
-    "engine": "2.00L V6",
+    "engine": "2.51L V14",
     "era": null
   },
   {
-    "name": "Charlotte I (75)",
+    "name": "Castle 122",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Charlotte I (75).png",
+    "image": "../Images/tanks/Castle 122.png",
     "armaments": [
-      "75x482mm Unnamed Cannon"
+      "122x512mm Unnamed Cannon"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
     "crew": 4,
-    "mass": "13.05t",
-    "hp": 280,
+    "mass": "46.10t",
+    "hp": 439,
     "maxSpeed": null,
-    "engine": "2.00L V6",
+    "engine": "2.51L V14",
     "era": null
   },
   {
-    "name": "Charlotte II",
+    "name": "Castle 158",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Charlotte II.png",
+    "image": "../Images/tanks/Castle 158.png",
     "armaments": [
-      "75x536mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "15.39t",
-    "hp": 404,
-    "maxSpeed": null,
-    "engine": "2.16L V8",
-    "era": null
-  },
-  {
-    "name": "Charlotte II LG",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Charlotte II LG.png",
-    "armaments": [
-      "75x536mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "14.94t",
-    "hp": 404,
-    "maxSpeed": null,
-    "engine": "2.16L V8",
-    "era": null
-  },
-  {
-    "name": "Charlotte III",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Charlotte III.png",
-    "armaments": [
-      "75x536mm SK-75L"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "24.52t",
-    "hp": 424,
-    "maxSpeed": null,
-    "engine": "2.16L V8",
-    "era": null
-  },
-  {
-    "name": "Charlotte III-R1",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Charlotte III-R1.png",
-    "armaments": [
-      "75x536mm SK-75L"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "27.63t",
-    "hp": 424,
-    "maxSpeed": null,
-    "engine": "2.16L V8",
-    "era": null
-  },
-  {
-    "name": "Charlotte III (85)",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Charlotte III (85).png",
-    "armaments": [
-      "85x574mm SK-75L"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "28.45t",
-    "hp": 548,
-    "maxSpeed": null,
-    "engine": "2.16L V8",
-    "era": null
-  },
-  {
-    "name": "Charlotte IV",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Charlotte IV.png",
-    "armaments": [
-      "80x714mm SK-80L"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "42.07t",
-    "hp": 944,
-    "maxSpeed": null,
-    "engine": "2.16L V12",
-    "era": null
-  },
-  {
-    "name": "Charlotte AA Mk. 1",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Charlotte AA Mk. 1.png",
-    "armaments": [
-      "20x547mm SK-75L"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "16.22t",
-    "hp": 424,
-    "maxSpeed": null,
-    "engine": "2.16L V8",
-    "era": null
-  },
-  {
-    "name": "Charlotte GMC",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Charlotte GMC.png",
-    "armaments": [
-      "150x360mm Unnamed Cannon"
+      "158x372mm Unnamed Cannon"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
     "crew": 4,
-    "mass": "23.84t",
-    "hp": 424,
+    "mass": "47.72t",
+    "hp": 439,
     "maxSpeed": null,
-    "engine": "2.16L V8",
+    "engine": "2.51L V14",
     "era": null
   },
   {
@@ -364,25 +73,6 @@
     "hp": 587,
     "maxSpeed": null,
     "engine": "2.51L V10",
-    "era": null
-  },
-  {
-    "name": "Castle II",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Castle II.png",
-    "armaments": [
-      "80x806mm SK-80L"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 4,
-    "mass": "46.35t",
-    "hp": 411,
-    "maxSpeed": null,
-    "engine": "2.51L V14",
     "era": null
   },
   {
@@ -424,25 +114,6 @@
     "era": null
   },
   {
-    "name": "Castle II-R2",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Castle II-R2.png",
-    "armaments": [
-      "80x806mm SK-80L"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 4,
-    "mass": "51.66t",
-    "hp": 411,
-    "maxSpeed": null,
-    "engine": "2.51L V14",
-    "era": null
-  },
-  {
     "name": "Castle II-R2 (1945)",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
@@ -462,60 +133,231 @@
     "era": null
   },
   {
-    "name": "Castle 122",
+    "name": "Castle II-R2",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Castle 122.png",
+    "image": "../Images/tanks/Castle II-R2.png",
     "armaments": [
-      "122x512mm Unnamed Cannon"
+      "80x806mm SK-80L"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
     "crew": 4,
-    "mass": "46.10t",
-    "hp": 439,
+    "mass": "51.66t",
+    "hp": 411,
     "maxSpeed": null,
     "engine": "2.51L V14",
     "era": null
   },
   {
-    "name": "Castle 122 Mod 1",
+    "name": "Castle II",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Castle 122 Mod 1.png",
+    "image": "../Images/tanks/Castle II.png",
     "armaments": [
-      "122x512mm Unnamed Cannon"
+      "80x806mm SK-80L"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
     "crew": 4,
-    "mass": "48.64t",
-    "hp": 439,
+    "mass": "46.35t",
+    "hp": 411,
     "maxSpeed": null,
     "engine": "2.51L V14",
     "era": null
   },
   {
-    "name": "Castle 158",
+    "name": "Charlotte AA Mk. 1",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Castle 158.png",
+    "image": "../Images/tanks/Charlotte AA Mk. 1.png",
     "armaments": [
-      "158x372mm Unnamed Cannon"
+      "20x547mm SK-75L"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "16.22t",
+    "hp": 424,
+    "maxSpeed": null,
+    "engine": "2.16L V8",
+    "era": null
+  },
+  {
+    "name": "Charlotte GMC",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte GMC.png",
+    "armaments": [
+      "150x360mm Unnamed Cannon"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
     "crew": 4,
-    "mass": "47.72t",
-    "hp": 439,
+    "mass": "23.84t",
+    "hp": 424,
     "maxSpeed": null,
-    "engine": "2.51L V14",
+    "engine": "2.16L V8",
+    "era": null
+  },
+  {
+    "name": "Charlotte I (75)",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte I (75).png",
+    "armaments": [
+      "75x482mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "13.05t",
+    "hp": 280,
+    "maxSpeed": null,
+    "engine": "2.00L V6",
+    "era": null
+  },
+  {
+    "name": "Charlotte I",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte I.png",
+    "armaments": [
+      "50x275mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "12.77t",
+    "hp": 280,
+    "maxSpeed": null,
+    "engine": "2.00L V6",
+    "era": null
+  },
+  {
+    "name": "Charlotte II LG",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte II LG.png",
+    "armaments": [
+      "75x536mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "14.94t",
+    "hp": 404,
+    "maxSpeed": null,
+    "engine": "2.16L V8",
+    "era": null
+  },
+  {
+    "name": "Charlotte II",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte II.png",
+    "armaments": [
+      "75x536mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "15.39t",
+    "hp": 404,
+    "maxSpeed": null,
+    "engine": "2.16L V8",
+    "era": null
+  },
+  {
+    "name": "Charlotte III (85)",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte III (85).png",
+    "armaments": [
+      "85x574mm SK-75L"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "28.45t",
+    "hp": 548,
+    "maxSpeed": null,
+    "engine": "2.16L V8",
+    "era": null
+  },
+  {
+    "name": "Charlotte III-R1",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte III-R1.png",
+    "armaments": [
+      "75x536mm SK-75L"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "27.63t",
+    "hp": 424,
+    "maxSpeed": null,
+    "engine": "2.16L V8",
+    "era": null
+  },
+  {
+    "name": "Charlotte III",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte III.png",
+    "armaments": [
+      "75x536mm SK-75L"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "24.52t",
+    "hp": 424,
+    "maxSpeed": null,
+    "engine": "2.16L V8",
+    "era": null
+  },
+  {
+    "name": "Charlotte IV",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Charlotte IV.png",
+    "armaments": [
+      "80x714mm SK-80L"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "42.07t",
+    "hp": 944,
+    "maxSpeed": null,
+    "engine": "2.16L V12",
     "era": null
   },
   {
@@ -538,98 +380,22 @@
     "era": null
   },
   {
-    "name": "Warwick I",
+    "name": "Jaguar I (AOA)",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Warwick I.png",
+    "image": "../Images/tanks/Jaguar I (AOA).png",
     "armaments": [
-      "50x519mm Unnamed Cannon"
+      "129x698mm SK-129"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
-    "crew": 3,
-    "mass": "12.61t",
-    "hp": 251,
+    "crew": 4,
+    "mass": "55.35t",
+    "hp": 901,
     "maxSpeed": null,
-    "engine": "1.48L V6",
-    "era": null
-  },
-  {
-    "name": "Warwick II",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Warwick II.png",
-    "armaments": [
-      "62x541mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 3,
-    "mass": "13.16t",
-    "hp": 483,
-    "maxSpeed": null,
-    "engine": "1.72L V8",
-    "era": null
-  },
-  {
-    "name": "Warwick II-R",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Warwick II-R.png",
-    "armaments": [
-      "62x541mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 3,
-    "mass": "20.11t",
-    "hp": 483,
-    "maxSpeed": null,
-    "engine": "1.72L V8",
-    "era": null
-  },
-  {
-    "name": "Prowler I",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Prowler I.png",
-    "armaments": [
-      "70x360mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 3,
-    "mass": "19.18t",
-    "hp": 537,
-    "maxSpeed": null,
-    "engine": "2.00L V8",
-    "era": null
-  },
-  {
-    "name": "Prowler I LG",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Prowler I LG.png",
-    "armaments": [
-      "70x360mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 3,
-    "mass": "19.23t",
-    "hp": 537,
-    "maxSpeed": null,
-    "engine": "2.00L V8",
+    "engine": "2.05L V12",
     "era": null
   },
   {
@@ -652,22 +418,22 @@
     "era": null
   },
   {
-    "name": "Jaguar I (AOA)",
+    "name": "Lancer I (TAA)",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
-    "image": "../Images/tanks/Jaguar I (AOA).png",
+    "image": "../Images/tanks/Lancer I (TAA).png",
     "armaments": [
-      "129x698mm SK-129"
+      "130x935mm Unnamed Cannon"
     ],
     "rotation": null,
     "vertical": null,
     "reload": null,
     "penetration": null,
-    "crew": 4,
-    "mass": "55.35t",
-    "hp": 901,
+    "crew": 5,
+    "mass": "87.33t",
+    "hp": 1026,
     "maxSpeed": null,
-    "engine": "2.05L V12",
+    "engine": "3.13L V12",
     "era": null
   },
   {
@@ -690,25 +456,6 @@
     "era": null
   },
   {
-    "name": "Lancer I (TAA)",
-    "flag": "../Images/flags/Skolia.png",
-    "designation": null,
-    "image": "../Images/tanks/Lancer I (TAA).png",
-    "armaments": [
-      "130x935mm Unnamed Cannon"
-    ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
-    "crew": 5,
-    "mass": "87.33t",
-    "hp": 1026,
-    "maxSpeed": null,
-    "engine": "3.13L V12",
-    "era": null
-  },
-  {
     "name": "Lancer II",
     "flag": "../Images/flags/Skolia.png",
     "designation": null,
@@ -725,6 +472,232 @@
     "hp": 1026,
     "maxSpeed": null,
     "engine": "3.13L V12",
+    "era": null
+  },
+  {
+    "name": "Prefab showcase",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Prefab showcase.png",
+    "armaments": [],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": null,
+    "mass": "11.03t",
+    "hp": 250,
+    "maxSpeed": null,
+    "engine": "2.00L V6",
+    "era": null
+  },
+  {
+    "name": "Prowler I LG",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Prowler I LG.png",
+    "armaments": [
+      "70x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "19.23t",
+    "hp": 537,
+    "maxSpeed": null,
+    "engine": "2.00L V8",
+    "era": null
+  },
+  {
+    "name": "Prowler I",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Prowler I.png",
+    "armaments": [
+      "70x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "19.18t",
+    "hp": 537,
+    "maxSpeed": null,
+    "engine": "2.00L V8",
+    "era": null
+  },
+  {
+    "name": "TK-2",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/TK-2.png",
+    "armaments": [
+      "50x275mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 1,
+    "mass": "6.59t",
+    "hp": 248,
+    "maxSpeed": null,
+    "engine": "1.85L V6",
+    "era": null
+  },
+  {
+    "name": "TK-3",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/TK-3.png",
+    "armaments": [
+      "50x275mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 1,
+    "mass": "7.68t",
+    "hp": 248,
+    "maxSpeed": null,
+    "engine": "1.85L V6",
+    "era": null
+  },
+  {
+    "name": "TK-4 (70)",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/TK-4 (70).png",
+    "armaments": [
+      "70x275mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "17.66t",
+    "hp": 254,
+    "maxSpeed": null,
+    "engine": "1.85L V6",
+    "era": null
+  },
+  {
+    "name": "TK-4 Mod. 1",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/TK-4 Mod. 1.png",
+    "armaments": [
+      "50x275mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "16.07t",
+    "hp": 254,
+    "maxSpeed": null,
+    "engine": "1.85L V6",
+    "era": null
+  },
+  {
+    "name": "TK-4",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/TK-4.png",
+    "armaments": [
+      "50x275mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "9.33t",
+    "hp": 243,
+    "maxSpeed": null,
+    "engine": "1.85L V6",
+    "era": null
+  },
+  {
+    "name": "TK-5",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/TK-5.png",
+    "armaments": [
+      "70x298mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 5,
+    "mass": "16.94t",
+    "hp": 486,
+    "maxSpeed": null,
+    "engine": "1.85L V12",
+    "era": null
+  },
+  {
+    "name": "Warwick I",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Warwick I.png",
+    "armaments": [
+      "50x519mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "12.61t",
+    "hp": 251,
+    "maxSpeed": null,
+    "engine": "1.48L V6",
+    "era": null
+  },
+  {
+    "name": "Warwick II-R",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Warwick II-R.png",
+    "armaments": [
+      "62x541mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "20.11t",
+    "hp": 483,
+    "maxSpeed": null,
+    "engine": "1.72L V8",
+    "era": null
+  },
+  {
+    "name": "Warwick II",
+    "flag": "../Images/flags/Skolia.png",
+    "designation": null,
+    "image": "../Images/tanks/Warwick II.png",
+    "armaments": [
+      "62x541mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "13.16t",
+    "hp": 483,
+    "maxSpeed": null,
+    "engine": "1.72L V8",
     "era": null
   }
 ]

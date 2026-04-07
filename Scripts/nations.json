@@ -1,20 +1,20 @@
 [
   {
     "name": "Edril",
-    "flag": "../Images/flags/edril.png",
+    "flag": "../Images/flags/Edril.png",
     "description": "A mountainous nation with a strong military tradition and a wide variety of tanks.  ",
     "tanksPage": "EdrilTanks.html",
     "more": "#"
   },
   {
     "name": "Skolia",
-    "flag": "../Images/flags/skolia.png",
+    "flag": "../Images/flags/Skolia.png",
     "description": "Hilly nation with dreary weather all of the time but more than makes up for it with a wide range of tanks.",
     "tanksPage": "SkoliaTanks.html",
     "more": "#"
   },
   {"name": "Voltaren Armored Corp.",
-    "flag": "../Images/flags/voltaren.png",
+    "flag": "../Images/placeholder.png",
     "description": "A powerful corporation that produces many heavy tanks.",
     "tanksPage": "VACTanks.html",
     "more": "#"

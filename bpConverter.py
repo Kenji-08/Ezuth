@@ -196,9 +196,9 @@ def main():
     print('Blueprint -> tanks.json converter')
     default_folder = input('Blueprint folder (default: misc): ').strip() or 'misc'
     default_nation = input('Nation or flag path (default: edril): ').strip() or 'edril'
-    default_out = input('Output JSON path (default: Scripts/{nation}/tanks.json): ').strip()
+    default_out = input('Output JSON path (default: Scripts/bulkConvertedFiles.json): ').strip()
     if not default_out:
-        default_out = f"Scripts/{default_nation}/tanks.json"
+        default_out = f"Scripts/bulkConvertedFiles.json"
 
     process_folder(default_folder, default_nation, default_out)
 
