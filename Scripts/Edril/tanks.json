@@ -26,10 +26,10 @@
     "armaments": [
       "37x536mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "10.3deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "3.2s",
+    "penetration": "64mm",
     "crew": 3,
     "mass": "14.85t",
     "hp": 518,
@@ -45,10 +45,10 @@
     "armaments": [
       "54x692mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "10.3deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "3.21s",
+    "penetration": "83mm",
     "crew": 4,
     "mass": "15.43t",
     "hp": 518,
@@ -62,12 +62,12 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-2A.png",
     "armaments": [
-      "77x493mm Unnamed Cannon"
+      "77x493mm EC46-77A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20.5deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "3.61s",
+    "penetration": "117mm",
     "crew": 4,
     "mass": "19.88t",
     "hp": 506,
@@ -81,12 +81,12 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-2B.png",
     "armaments": [
-      "77x493mm Unnamed Cannon"
+      "77x493mm EC46-77A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20.5deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "3.61s",
+    "penetration": "117mm",
     "crew": 4,
     "mass": "19.97t",
     "hp": 506,
@@ -100,12 +100,12 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-2C.png",
     "armaments": [
-      "77x493mm Unnamed Cannon"
+      "77x493mm EC46-77A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "30.8deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "3.61s",
+    "penetration": "146mm",
     "crew": 4,
     "mass": "19.99t",
     "hp": 783,
@@ -140,10 +140,10 @@
     "armaments": [
       "57x455mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "12.8deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "4.45s",
+    "penetration": "95mm",
     "crew": 3,
     "mass": "18.10t",
     "hp": 273,
@@ -178,10 +178,10 @@
     "armaments": [
       "52x466mm EC38-52A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "23.1deg/s",
+    "vertical": "-10 / 30.4deg",
+    "reload": "3.25s",
+    "penetration": "92mm",
     "crew": 4,
     "mass": "16.80t",
     "hp": 562,
@@ -197,10 +197,10 @@
     "armaments": [
       "52x660mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "34.6deg/s",
+    "vertical": "-9.5 / 30.4deg",
+    "reload": "2.92s",
+    "penetration": "130mm",
     "crew": 4,
     "mass": "18.07t",
     "hp": 858,
@@ -216,10 +216,10 @@
     "armaments": [
       "52x660mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "35.2deg/s",
+    "vertical": "-9.5 / 30.4deg",
+    "reload": "2.92s",
+    "penetration": "149mm",
     "crew": 4,
     "mass": "18.37t",
     "hp": 939,
@@ -252,12 +252,12 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5B Jester.png",
     "armaments": [
-      "90x773mm Unnamed Cannon"
+      "90x773mm EC44-90B"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "28.5deg/s",
+    "vertical": "-15.9 / 7deg",
+    "reload": "4.8s",
+    "penetration": "240mm",
     "crew": 5,
     "mass": "21.72t",
     "hp": 499,
@@ -271,12 +271,12 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5C Jester.png",
     "armaments": [
-      "90x854mm Unnamed Cannon"
+      "90x854mm EC44-90C"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "30.1deg/s",
+    "vertical": "-15.9 / 7deg",
+    "reload": "4.9s",
+    "penetration": "250mm",
     "crew": 5,
     "mass": "25.46t",
     "hp": 832,
@@ -290,12 +290,12 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5D Jester.png",
     "armaments": [
-      "90x854mm Unnamed Cannon"
+      "90x854mm EC44-90C"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "30.1deg/s",
+    "vertical": "-15.9 / 7deg",
+    "reload": "4.9s",
+    "penetration": "250mm",
     "crew": 5,
     "mass": "26.55t",
     "hp": 858,
@@ -309,16 +309,16 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-5E Super Jester.png",
     "armaments": [
-      "90x898mm Unnamed Cannon"
+      "90x898mm EC45-90D"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "24.3deg/s",
+    "vertical": "-20 / 7deg",
+    "reload": "5.24s",
+    "penetration": "255mm",
     "crew": 5,
     "mass": "26.19t",
     "hp": 858,
-    "maxSpeed": null,
+    "maxSpeed": "31mph",
     "engine": "2.50L V20",
     "era": "Latewar"
   },
@@ -347,12 +347,12 @@
     "designation": "Heavy Tank",
     "image": "../Images/tanks/A-6B Demolisher.png",
     "armaments": [
-      "106x360mm Unnamed Cannon"
+      "106x360mm EC44-106A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "23.6deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "2.93s",
+    "penetration": "168mm",
     "crew": 5,
     "mass": "57.02t",
     "hp": 1061,
@@ -366,12 +366,12 @@
     "designation": "Heavy Tank",
     "image": "../Images/tanks/A-6C-125 Demolisher.png",
     "armaments": [
-      "125x460mm Unnamed Cannon"
+      "125x460mm EC44-125A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "23.6deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "8.02s",
+    "penetration": "212mm",
     "crew": 5,
     "mass": "57.68t",
     "hp": 1592,
@@ -385,12 +385,13 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/GA-6-120.png",
     "armaments": [
-      "120x536mm Unnamed Cannon"
+      "120x536mm EC44-120A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "v 2.07deg/s / h 2.61deg/s",
+    "vertical": "-15.3 / 20.1deg",
+    "horizontal": "-5.1 / 5.1deg",
+    "reload": "8.47s",
+    "penetration": "224mm",
     "crew": 4,
     "mass": "74.78t",
     "hp": 1061,
@@ -425,12 +426,12 @@
     "image": "../Images/tanks/AD-7B Spider.png",
     "armaments": [
       "92x638mm EC42-92B",
-      "15x360mm Unnamed Cannon"
+      "15x360mm HMG"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-10.9 / 24.6deg",
+    "reload": "4.07s",
+    "penetration": "160mm",
     "crew": 4,
     "mass": "34.21t",
     "hp": 694,
@@ -445,12 +446,12 @@
     "image": "../Images/tanks/AD-7C Spider.png",
     "armaments": [
       "92x638mm EC42-92B",
-      "15x360mm Unnamed Cannon"
+      "15x360mm HMG"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-10.9 / 24.6deg",
+    "reload": "4.07s",
+    "penetration": "160mm",
     "crew": 4,
     "mass": "34.84t",
     "hp": 694,
@@ -465,12 +466,12 @@
     "image": "../Images/tanks/AD-7D Super Spider.png",
     "armaments": [
       "108x600mm EC44-108A",
-      "15x360mm Unnamed Cannon"
+      "15x360mm HMG"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "25.9deg/s",
+    "vertical": "-10 / 24.6deg",
+    "reload": "4.04s",
+    "penetration": "220mm",
     "crew": 5,
     "mass": "38.71t",
     "hp": 1127,
@@ -485,18 +486,18 @@
     "image": "../Images/tanks/AD-7E Hyper Spider.png",
     "armaments": [
       "108x600mm EC44-108A",
-      "15x360mm Unnamed Cannon"
+      "15x360mm HMG"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "30.4s",
+    "vertical": "-10.9 / 24.6deg",
+    "reload": "4.04s",
+    "penetration": "232mm",
     "crew": 5,
     "mass": "39.00t",
     "hp": 1132,
     "maxSpeed": null,
     "engine": "1.72L V18",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "AD-7E-(HVSS) Hyper Spider",
@@ -505,18 +506,18 @@
     "image": "../Images/tanks/AD-7E-(HVSS) Hyper Spider.png",
     "armaments": [
       "108x600mm EC44-108A",
-      "15x360mm Unnamed Cannon"
+      "15x360mm HMG"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "30.4deg/s",
+    "vertical": "-10.9 / 24.6deg",
+    "reload": "4.04s",
+    "penetration": "232mm",
     "crew": 5,
     "mass": "35.32t",
     "hp": 1132,
     "maxSpeed": null,
     "engine": "1.72L V18",
-    "era": null
+    "era": "Korea"
   },
   {
     "name": "AX-9A Scorpion",
@@ -526,10 +527,10 @@
     "armaments": [
       "90x954mm EOC44-90A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "27.5deg/s",
+    "vertical": "-12 / 11deg",
+    "reload": "6.4s",
+    "penetration": "213mm",
     "crew": 5,
     "mass": "34.51t",
     "hp": 343,
@@ -545,10 +546,10 @@
     "armaments": [
       "90x954mm EOC44-90A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "27.5deg/s",
+    "vertical": "-12 / 11deg",
+    "reload": "6.4s",
+    "penetration": "213mm",
     "crew": 5,
     "mass": "36.61t",
     "hp": 343,
@@ -583,10 +584,10 @@
     "armaments": [
       "140x703mm EC43-140A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "19.2deg/s",
+    "vertical": "-10.5 / 39deg",
+    "reload": "17s",
+    "penetration": "266mm",
     "crew": 5,
     "mass": "70.68t",
     "hp": 1517,
@@ -600,12 +601,12 @@
     "designation": "Heavy Tank",
     "image": "../Images/tanks/A-10C-150 Paragon.png",
     "armaments": [
-      "150x865mm Unnamed Cannon"
+      "150x865mm EC50-150A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "19.23s",
+    "penetration": "323mm",
     "crew": 5,
     "mass": "78.93t",
     "hp": 1523,
@@ -621,10 +622,10 @@
     "armaments": [
       "150x1184mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "27.4deg/s",
+    "vertical": "-8 / 20deg",
+    "reload": "22s",
+    "penetration": "404mm",
     "crew": 6,
     "mass": "81.27t",
     "hp": 1528,
@@ -638,13 +639,12 @@
     "designation": "SPAA",
     "image": "../Images/tanks/A-11 Punisher.png",
     "armaments": [
-      "60x174mm Unnamed Cannon",
-      "60x278mm Unnamed Cannon"
+      "3 60x174mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "48deg/s",
+    "vertical": "-10 / 45deg",
+    "reload": "0.2s",
+    "penetration": "92mm",
     "crew": 6,
     "mass": "37.10t",
     "hp": 1517,
@@ -660,10 +660,11 @@
     "armaments": [
       "200x440mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "v 1.51deg/s / h 3.6deg/s",
+    "vertical": "-10/ 45deg",
+    "horizontal": "-2.1 / 2deg",
+    "reload": "25.1s",
+    "penetration": "234mm (AP)",
     "crew": 5,
     "mass": "17.02t",
     "hp": 354,
