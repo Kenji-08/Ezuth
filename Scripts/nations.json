@@ -2,7 +2,7 @@
   {
     "name": "Edril",
     "flag": "../Images/flags/Edril.png",
-    "description": "A mountainous nation with a strong military tradition and a wide variety of tanks. Credit to Mustang and Jerikhi",
+    "description": "A mountainous nation with a strong military tradition and a wide variety of tanks. (WIP description) Credit to Mustang and Jerikhi",
     "tanksPage": "EdrilTanks.html",
     "more": "#"
   },
@@ -12,11 +12,5 @@
     "description": "Hilly nation with dreary weather all of the time but more than makes up for it with a wide range of tanks. (WIP description). Credit to Mustang",
     "tanksPage": "SkoliaTanks.html",
     "more": "#"
-  },
-  {"name": "Voltaren Armored Corp.",
-    "flag": "../Images/placeholder.png",
-    "description": "A powerful corporation that produces many heavy tanks.",
-    "tanksPage": "VACTanks.html",
-    "more": "#"
-    }
+  }
 ]
