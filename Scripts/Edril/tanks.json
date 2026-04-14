@@ -135,7 +135,7 @@
   {
     "name": "A-3A Pathfinder",
     "flag": "../Images/flags/Edril.png",
-    "designation": "Light Tank",
+    "designation": "Experimental Light Tank",
     "image": "../Images/tanks/A-3A Pathfinder.png",
     "armaments": [
       "57x455mm Unnamed Cannon"
@@ -520,6 +520,25 @@
     "era": "Korea"
   },
   {
+    "name": "AD-7F Tarantula",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/AD-7F Tarantula.png",
+    "armaments": [
+      "108x600mm EC44-108A"
+    ],
+    "rotation": "24deg/s",
+    "vertical": "-9 / 29.5deg",
+    "reload": "4.54s",
+    "penetration": "256mm",
+    "crew": 4,
+    "mass": "46.70t",
+    "hp": 1136,
+    "maxSpeed": null,
+    "engine": "1.72L V18",
+    "era": "EarlyColdWar"
+  },
+  {
     "name": "AX-9A Scorpion",
     "flag": "../Images/flags/Edril.png",
     "designation": "Experimental TD",
@@ -675,15 +694,15 @@
   {
     "name": "AXTD-13",
     "flag": "../Images/flags/Edril.png",
-    "designation": "Tank Destroyer",
+    "designation": "Experimental TD",
     "image": "../Images/tanks/AXTD-13.png",
     "armaments": [
       "72x876mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "19.2deg/s",
+    "vertical": "-9.7 / 17.6deg",
+    "reload": "4.75s",
+    "penetration": "213mm",
     "crew": 3,
     "mass": "19.16t",
     "hp": 396,
@@ -699,10 +718,10 @@
     "armaments": [
       "72x876mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-9.7 / 17.6deg",
+    "reload": "4.75s",
+    "penetration": "225mm",
     "crew": 3,
     "mass": "27.19t",
     "hp": 497,
@@ -718,10 +737,10 @@
     "armaments": [
       "92x811mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-4.1 / 17.6deg",
+    "reload": "4.96s",
+    "penetration": "249mm",
     "crew": 3,
     "mass": "28.45t",
     "hp": 497,
@@ -756,10 +775,10 @@
     "armaments": [
       "140x900mm EC43-140A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20.3deg/s",
+    "vertical": "6.8 / 25deg",
+    "reload": "15.95s",
+    "penetration": "296mm",
     "crew": 5,
     "mass": "47.14t",
     "hp": 1273,
@@ -775,10 +794,10 @@
     "armaments": [
       "140x900mm EC43-140A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20.3deg/s",
+    "vertical": "6.8 / 25deg",
+    "reload": "15.95s",
+    "penetration": "296mm",
     "crew": 5,
     "mass": "45.35t",
     "hp": 1278,
@@ -794,10 +813,10 @@
     "armaments": [
       "150x865mm EC50-150A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "21.1deg/s",
+    "vertical": "6.8 / 25deg",
+    "reload": "15.95s",
+    "penetration": "323mm",
     "crew": 5,
     "mass": "48.41t",
     "hp": 1278,
@@ -813,10 +832,10 @@
     "armaments": [
       "150x865mm EC50-150A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "25.3deg/s",
+    "vertical": "6.8 / 25deg",
+    "reload": "15.95s",
+    "penetration": "356mm",
     "crew": 5,
     "mass": "48.23t",
     "hp": 1270,
@@ -832,10 +851,10 @@
     "armaments": [
       "108x1000mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "29deg/s",
+    "vertical": "-8 / 6deg",
+    "reload": "6.38s",
+    "penetration": "274mm",
     "crew": 3,
     "mass": "28.36t",
     "hp": 300,
@@ -846,15 +865,15 @@
   {
     "name": "AX-16",
     "flag": "../Images/flags/Edril.png",
-    "designation": "Experimental Tank",
+    "designation": "Experimental Tank (cast turret)",
     "image": "../Images/tanks/AX-16.png",
     "armaments": [
       "122x649mm Unnamed Cannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "7.57s",
+    "penetration": "256mm",
     "crew": 5,
     "mass": "34.93t",
     "hp": 620,
@@ -887,12 +906,12 @@
     "designation": "Medium Tank",
     "image": "../Images/tanks/T-17A.png",
     "armaments": [
-      "152x666mm Unnamed Cannon"
+      "152x666mm Autoloaded EC44-152A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "30.5deg/s",
+    "vertical": "-10 / 15deg",
+    "reload": "~5.5s",
+    "penetration": "298mm",
     "crew": 5,
     "mass": "53.23t",
     "hp": 1125,
@@ -925,32 +944,32 @@
     "designation": "Siege Tank",
     "image": "../Images/tanks/A-19A Ward.png",
     "armaments": [
-      "110x369mm Unnamed Cannon",
-      "20x62mm Unnamed Cannon"
+      "110x369mm EC44-110A",
+      "20x62mm Autocannon"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "20deg/s",
+    "vertical": "-20 / 22.8deg",
+    "reload": "3.63s",
+    "penetration": "177mm",
     "crew": 5,
     "mass": "35.93t",
     "hp": 606,
     "maxSpeed": null,
     "engine": "2.00L V10",
-    "era": "Korea"
+    "era": "Korea - Latewar Design"
   },
   {
-    "name": "A-20A Reclaimer",
+    "name": "XA-20A Reclaimer",
     "flag": "../Images/flags/Edril.png",
     "designation": "Failed MBT",
     "image": "../Images/tanks/A-20A Reclaimer.png",
     "armaments": [
       "140x903mm EC43-140C"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "29.9deg/s",
+    "vertical": "-9.2 / 20deg",
+    "reload": "~8s",
+    "penetration": "313mm",
     "crew": 5,
     "mass": "52.88t",
     "hp": 964,
@@ -966,12 +985,12 @@
     "armaments": [
       "72x584mm EC45-72A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "32deg/s",
+    "vertical": "-10 / 30.7deg",
+    "reload": "4.27s",
+    "penetration": "178mm",
     "crew": 3,
-    "mass": "21.58t",
+    "mass": "22.58t",
     "hp": 984,
     "maxSpeed": null,
     "engine": "2.19L V18",
@@ -980,15 +999,15 @@
   {
     "name": "A-400ACS Disciple",
     "flag": "../Images/flags/Edril.png",
-    "designation": "Light Tank",
+    "designation": "Light Siege Tank",
     "image": "../Images/tanks/A-400ACS Disciple.png",
     "armaments": [
       "140x401mm EC43-140B Compact"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "32deg/s",
+    "vertical": "-13.4 / 30.7deg",
+    "reload": "10.54s",
+    "penetration": "176mm",
     "crew": 3,
     "mass": "24.35t",
     "hp": 984,
@@ -1004,10 +1023,10 @@
     "armaments": [
       "72x584mm EC45-72A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "33.3deg/s",
+    "vertical": "-10 / 30.7deg",
+    "reload": "4.27s",
+    "penetration": "188mm",
     "crew": 3,
     "mass": "22.58t",
     "hp": 988,
@@ -1023,10 +1042,10 @@
     "armaments": [
       "72x584mm EC45-72A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "33.3deg/s",
+    "vertical": "-10 / 30.7deg",
+    "reload": "4.27s",
+    "penetration": "188mm",
     "crew": 3,
     "mass": "22.59t",
     "hp": 1358,
@@ -1042,16 +1061,16 @@
     "armaments": [
       "125x1027mm EC46-125A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "25.5deg/s",
+    "vertical": "-20.9 / 20deg",
+    "reload": "12.98s",
+    "penetration": "324mm",
     "crew": 5,
     "mass": "29.57t",
     "hp": 871,
     "maxSpeed": null,
     "engine": "2.00L V14",
-    "era": "Korea"
+    "era": "Korea - Latewar Design"
   },
   {
     "name": "G-1A Redux",
@@ -1059,12 +1078,12 @@
     "designation": "MBT",
     "image": "../Images/tanks/G-1A Redux.png",
     "armaments": [
-      "140x903mm EC43-140C"
+      "140x903mm Autoloaded EC43-140C"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "35.9deg/s",
+    "vertical": "-9.2 / 20deg",
+    "reload": "~9.5s",
+    "penetration": "345mm",
     "crew": 5,
     "mass": "72.85t",
     "hp": 1290,
@@ -1080,10 +1099,10 @@
     "armaments": [
       "140x903mm EC43-140C"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "35.9deg/s",
+    "vertical": "-9.2 / 20deg",
+    "reload": "~9.5s",
+    "penetration": "345mm",
     "crew": 5,
     "mass": "74.44t",
     "hp": 1452,
@@ -1097,12 +1116,12 @@
     "designation": "Self Propelled Artillery",
     "image": "../Images/tanks/G-1B2-200 .png",
     "armaments": [
-      "200x400mm Unnamed Cannon"
+      "200x400mm Autoloaded EC61-200A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "35.9deg/s",
+    "vertical": "-10 / 45deg",
+    "reload": "~8s",
+    "penetration": "295mm (AP)",
     "crew": 5,
     "mass": "56.22t",
     "hp": 667,
@@ -1116,12 +1135,12 @@
     "designation": "MBT",
     "image": "../Images/tanks/G-1C Redux.png",
     "armaments": [
-      "140x903mm EC43-140C"
+      "140x903mm Autoloaded EC43-140C"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "24deg/s",
+    "vertical": "-9.2 / 20deg",
+    "reload": "~9.5s",
+    "penetration": "345mm",
     "crew": 5,
     "mass": "74.56t",
     "hp": 1452,
@@ -1137,10 +1156,10 @@
     "armaments": [
       "140x903mm EC43-140C"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "24deg/s",
+    "vertical": "-9.2 / 20deg",
+    "reload": "~9.5s",
+    "penetration": "345mm",
     "crew": 5,
     "mass": "73.35t",
     "hp": 1452,
@@ -1156,10 +1175,10 @@
     "armaments": [
       "210x400mm EC61-200A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "24deg/s",
+    "vertical": "-9.2 / 20deg",
+    "reload": "~10s",
+    "penetration": "256mm (AP)",
     "crew": 5,
     "mass": "75.94t",
     "hp": 1452,
@@ -1175,12 +1194,31 @@
     "armaments": [
       "150x865mm EC50-150A"
     ],
-    "rotation": null,
-    "vertical": null,
-    "reload": null,
-    "penetration": null,
+    "rotation": "39.8deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "16.96s",
+    "penetration": "356mm",
     "crew": 4,
     "mass": "72.10t",
+    "hp": 1452,
+    "maxSpeed": null,
+    "engine": "2.42L V18",
+    "era": "EarlyColdWar"
+  },
+  {
+    "name": "G-1D Redux",
+    "flag": "../Images/flags/edril.png",
+    "designation": null,
+    "image": "../Images/tanks/G-1D Redux.png",
+    "armaments": [
+      "140x903mm EC43-140C"
+    ],
+    "rotation": "39.8deg/s",
+    "vertical": "-10 / 20deg",
+    "reload": "~9.5s",
+    "penetration": "345mm",
+    "crew": 5,
+    "mass": "75.31t",
     "hp": 1452,
     "maxSpeed": null,
     "engine": "2.42L V18",
