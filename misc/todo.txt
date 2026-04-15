@@ -7,6 +7,7 @@ Get tank stats Skolia <- NEXT
 Add JS for including Horizontal <- BEFORE v0.2
 Get all designations for Skolia
 Optimize data files
+Optimize website and images
 Replicas
   {
     "name": "Replicas",
