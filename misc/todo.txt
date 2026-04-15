@@ -7,6 +7,15 @@ Get tank stats Skolia <- NEXT
 Add JS for including Horizontal <- BEFORE v0.2
 Get all designations for Skolia
 Optimize data files
+Replicas
+  {
+    "name": "Replicas",
+    "flag": "../Images/flags/Replicas.png",
+    "description": "Not a nation but Mustang's recreations of IRL tanks. Credit to Mustang",
+    "tanksPage": "ReplicasTanks.html",
+    "more": "#"
+  }
+
 
 Get tank stats Edril DONE
 Remove VAC DONE

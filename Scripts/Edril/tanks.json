@@ -5,7 +5,7 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-1.png",
     "armaments": [
-      "37x180mm EC35-37"
+      "37x180mm EC35-37A"
     ],
     "rotation": "19.2deg/s",
     "vertical": "-10 / 20deg",
@@ -24,7 +24,7 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-1B.png",
     "armaments": [
-      "37x536mm Unnamed Cannon"
+      "37x536mm EC35-37B"
     ],
     "rotation": "10.3deg/s",
     "vertical": "-10 / 20deg",
@@ -43,7 +43,7 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-1C-54.png",
     "armaments": [
-      "54x692mm Unnamed Cannon"
+      "54x692mm EC35-54A"
     ],
     "rotation": "10.3deg/s",
     "vertical": "-10 / 20deg",
@@ -138,7 +138,7 @@
     "designation": "Experimental Light Tank",
     "image": "../Images/tanks/A-3A Pathfinder.png",
     "armaments": [
-      "57x455mm Unnamed Cannon"
+      "57x455mm EC38-57A"
     ],
     "rotation": "12.8deg/s",
     "vertical": "-10 / 20deg",
@@ -195,7 +195,7 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-4C Beacon.png",
     "armaments": [
-      "52x660mm Unnamed Cannon"
+      "52x660mm EC38-52B"
     ],
     "rotation": "34.6deg/s",
     "vertical": "-9.5 / 30.4deg",
@@ -214,7 +214,7 @@
     "designation": "Light Tank",
     "image": "../Images/tanks/A-4D Beacon.png",
     "armaments": [
-      "52x660mm Unnamed Cannon"
+      "52x660mm EC38-52B"
     ],
     "rotation": "35.2deg/s",
     "vertical": "-9.5 / 30.4deg",
@@ -639,7 +639,7 @@
     "designation": "Heavy Tank",
     "image": "../Images/tanks/A-10D-150 Paragon.png",
     "armaments": [
-      "150x1184mm Unnamed Cannon"
+      "150x1184mm EC50-150B"
     ],
     "rotation": "27.4deg/s",
     "vertical": "-8 / 20deg",
@@ -658,7 +658,7 @@
     "designation": "SPAA",
     "image": "../Images/tanks/A-11 Punisher.png",
     "armaments": [
-      "3 60x174mm Unnamed Cannon"
+      "3 60x174mm EC40-60A"
     ],
     "rotation": "48deg/s",
     "vertical": "-10 / 45deg",
@@ -677,7 +677,7 @@
     "designation": "Self Propelled Artillery",
     "image": "../Images/tanks/A-12.png",
     "armaments": [
-      "200x440mm Unnamed Cannon"
+      "200x440mm EC44-200A"
     ],
     "rotation": "v 1.51deg/s / h 3.6deg/s",
     "vertical": "-10/ 45deg",
@@ -697,7 +697,7 @@
     "designation": "Experimental TD",
     "image": "../Images/tanks/AXTD-13.png",
     "armaments": [
-      "72x876mm Unnamed Cannon"
+      "72x876mm ECX44-72A"
     ],
     "rotation": "19.2deg/s",
     "vertical": "-9.7 / 17.6deg",
@@ -716,7 +716,7 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/ATD-13 Savior.png",
     "armaments": [
-      "72x876mm Unnamed Cannon"
+      "72x876mm ECX44-72A"
     ],
     "rotation": "20deg/s",
     "vertical": "-9.7 / 17.6deg",
@@ -735,7 +735,7 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/ATD-13B-108 Savior.png",
     "armaments": [
-      "92x811mm Unnamed Cannon"
+      "92x811mm EC50-108A"
     ],
     "rotation": "20deg/s",
     "vertical": "-4.1 / 17.6deg",
@@ -849,7 +849,7 @@
     "designation": "Tank Destroyer",
     "image": "../Images/tanks/A-15 Venalux.png",
     "armaments": [
-      "108x1000mm Unnamed Cannon"
+      "108x1000mm EC45-108A"
     ],
     "rotation": "29deg/s",
     "vertical": "-8 / 6deg",
@@ -868,7 +868,7 @@
     "designation": "Experimental Tank (cast turret)",
     "image": "../Images/tanks/AX-16.png",
     "armaments": [
-      "122x649mm Unnamed Cannon"
+      "122x649mm ECX45-122A"
     ],
     "rotation": "20deg/s",
     "vertical": "-10 / 20deg",
@@ -962,7 +962,7 @@
     "name": "XA-20A Reclaimer",
     "flag": "../Images/flags/Edril.png",
     "designation": "Failed MBT",
-    "image": "../Images/tanks/A-20A Reclaimer.png",
+    "image": "../Images/tanks/XA-20A Reclaimer.png",
     "armaments": [
       "140x903mm EC43-140C"
     ],
@@ -1114,7 +1114,7 @@
     "name": "G-1B2-200 ",
     "flag": "../Images/flags/Edril.png",
     "designation": "Self Propelled Artillery",
-    "image": "../Images/tanks/G-1B2-200 .png",
+    "image": "../Images/tanks/G-1B2-200.png",
     "armaments": [
       "200x400mm Autoloaded EC61-200A"
     ],
