@@ -107,5 +107,5 @@
 
 @media (min-width: 700px) {
     .tank-card { max-width: 380px; }
-    .tank-image { height: 220px; }
+    .tank-image { max-width: 280px;}
 }

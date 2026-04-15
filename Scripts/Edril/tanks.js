@@ -4,13 +4,38 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('tank-list');
   if (!container) return;
 
+  // Skeleton helpers to reduce perceived layout shift while fetching
+  const skeletonWrapper = document.createElement('div');
+  skeletonWrapper.className = 'tank-skeletons';
+  const showSkeletons = (count = 3) => {
+    skeletonWrapper.innerHTML = '';
+    for (let i = 0; i < count; i++) {
+      const sk = document.createElement('div');
+      sk.className = 'tank-card skeleton-card';
+      sk.style.minHeight = '140px';
+      sk.style.background = '#efefef';
+      sk.style.borderRadius = '4px';
+      sk.style.marginBottom = '12px';
+      skeletonWrapper.appendChild(sk);
+    }
+    container.appendChild(skeletonWrapper);
+  };
+  const removeSkeletons = () => {
+    if (skeletonWrapper.parentNode) skeletonWrapper.parentNode.removeChild(skeletonWrapper);
+  };
+
+  // show skeletons immediately
+  showSkeletons(3);
+
   fetch(`../Scripts/${nation}/tanks.json`)
     .then(response => {
       if (!response.ok) throw new Error('Failed to load tanks.json');
       return response.json();
     })
     .then(tanks => {
+      removeSkeletons();
       if (!Array.isArray(tanks)) throw new Error('Invalid tanks data');
+      const fragment = document.createDocumentFragment();
       tanks.forEach(tank => {
         const card = document.createElement('div');
         card.className = 'tank-card';
@@ -81,10 +106,13 @@ document.addEventListener('DOMContentLoaded', () => {
         addStat('Era', tank.era);
         card.appendChild(stats);
 
-        container.appendChild(card);
+        fragment.appendChild(card);
       });
+      // Append all cards at once to reduce layout shifts
+      container.appendChild(fragment);
     })
     .catch(err => {
+      removeSkeletons();
       console.error(err);
       container.textContent = 'Could not load tank data.';
     });
