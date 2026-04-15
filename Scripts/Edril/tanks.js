@@ -19,11 +19,12 @@ document.addEventListener('DOMContentLoaded', () => {
         title.textContent = tank.name || 'Unknown';
         card.appendChild(title);
 
-        if (tank.flag) {
+        // use the `nation` variable for the flag path instead of JSON
+        {
           const flag = document.createElement('img');
-          flag.className = 'tank-flag';
-          flag.src = tank.flag;
+          flag.src = `../Images/flags/${nation}Small.jpg`;
           flag.alt = `${tank.name} flag`;
+          flag.className = 'tank-flag';
           card.appendChild(flag);
         }
 
