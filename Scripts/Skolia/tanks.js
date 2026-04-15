@@ -22,8 +22,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // use the `nation` variable for the flag path instead of JSON
         {
           const flag = document.createElement('img');
-          flag.src = `../Images/flags/${nation}.png`;
+          flag.src = `../Images/flags/${nation}Small.jpg`;
           flag.alt = `${tank.name} flag`;
+          flag.className = 'tank-flag';
           card.appendChild(flag);
         }
 
