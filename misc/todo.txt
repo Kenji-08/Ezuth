@@ -3,9 +3,19 @@ Final Styling for tank cards, home page, nations
 fill out textual content for home page, nation descs,
 Get tank images Edril <- NOW
     Skolia <- NEXT
-Get tank stats Edril <- NEXT
-    Skolia <- NEXT
+Get tank stats Skolia <- NEXT
 Add JS for including Horizontal <- BEFORE v0.2
 Get all designations for Skolia
 Optimize data files
-Remove VAC
+Replicas
+  {
+    "name": "Replicas",
+    "flag": "../Images/flags/Replicas.png",
+    "description": "Not a nation but Mustang's recreations of IRL tanks. Credit to Mustang",
+    "tanksPage": "ReplicasTanks.html",
+    "more": "#"
+  }
+
+
+Get tank stats Edril DONE
+Remove VAC DONE
