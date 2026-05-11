@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('nation-list');
   if (!container) return;
 
-  fetch('../Scripts/nations.json')
+  fetch('Scripts/nations.json')
     .then(res => {
       if (!res.ok) throw new Error('Failed to load nations.json');
       return res.json();
