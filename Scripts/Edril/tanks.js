@@ -96,6 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // core stats (map to new JSON keys)
         addStat('Turret Rotation', tank.rotation);
         addStat('Vertical Guidance', tank.vertical);
+        addStat('Horizontal Guidance', tank.azimuth);
         addStat('Reloading Rate', tank.reload);
         addStat('Crew', tank.crew);
         addStat('Mass', tank.mass);
