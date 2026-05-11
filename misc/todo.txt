@@ -19,9 +19,18 @@ Replicas
     "name": "Replicas",
     "flag": "../Images/flags/Replicas.png",
     "description": "Not a nation but Mustang's recreations of IRL tanks. Credit to Mustang",
-    "tanksPage": "ReplicasTanks.html",
+    "tanksPage": "ReplicaTanks.html",
     "more": "#"
   }
+
+Misc
+{
+    "name": "Misc",
+    "flag": "",
+    "description": "random or challenge vehicles",
+    tanksPage: "MiscTanks.html",
+    "more": "#"
+}
 
 Get tank images Edril <- DONE
 Get tank stats Edril DONE
