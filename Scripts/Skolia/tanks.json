@@ -639,7 +639,7 @@
   },
   {
     "name": "Prowler II",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/Prowler II.png",
     "armaments": [
       "70x360mm Unnamed Cannon"
@@ -696,7 +696,7 @@
   },
   {
     "name": "Jaguar I (AOS)",
-    "designation": null,
+    "designation": "MBT",
     "image": "../Images/tanks/Jaguar I (AOS).png",
     "armaments": [
       "129x628mm SK-129"
@@ -715,7 +715,7 @@
   },
   {
     "name": "Jaguar II",
-    "designation": null,
+    "designation": "Light Tank",
     "image": "../Images/tanks/Jaguar II.png",
     "armaments": [
       "129x628mm SK-129"
@@ -734,7 +734,7 @@
   },
   {
     "name": "Cooper APC",
-    "designation": null,
+    "designation": "Armored Personnel Carrier",
     "image": "../Images/tanks/Cooper APC.png",
     "armaments": [
       "20x30mm Unnamed Cannon"
@@ -753,7 +753,7 @@
   },
   {
     "name": "Cooper AT",
-    "designation": null,
+    "designation": "Anti-Tank Vehicle",
     "image": "../Images/tanks/Cooper AT.png",
     "armaments": [
       "100x487mm Unnamed Cannon"
@@ -772,7 +772,7 @@
   },
   {
     "name": "Cooper IFV",
-    "designation": null,
+    "designation": "Infantry Fighting Vehicle",
     "image": "../Images/tanks/Cooper IFV.png",
     "armaments": [
       "30x120mm Unnamed Cannon"
