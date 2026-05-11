@@ -1,14 +1,14 @@
 [
   {
     "name": "Edril",
-    "flag": "../Images/flags/Edril.png",
+    "flag": "Images/flags/Edril.png",
     "description": "A mountainous nation with a strong military tradition and a wide variety of tanks. (WIP description) Credit to Mustang and Jerikhi",
     "tanksPage": "EdrilTanks.html",
     "more": "#"
   },
   {
     "name": "Skolia",
-    "flag": "../Images/flags/Skolia.png",
+    "flag": "Images/flags/Skolia.png",
     "description": "Hilly nation with dreary weather all of the time but more than makes up for it with a wide range of tanks. (WIP description). Credit to Mustang",
     "tanksPage": "SkoliaTanks.html",
     "more": "#"
