@@ -638,6 +638,25 @@
     "era": "Midwar"
   },
   {
+    "name": "Prowler II",
+    "designation": null,
+    "image": "../Images/tanks/Prowler II.png",
+    "armaments": [
+      "70x360mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": "-10.0 / 20.0deg",
+    "azimuth": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "21.20t",
+    "hp": 734,
+    "maxSpeed": null,
+    "engine": "2.00L V10",
+    "era": null
+  },
+  {
     "name": "Jaguar I",
     "flag": "../Images/flags/Skolia.png",
     "designation": "MBT",
@@ -674,6 +693,101 @@
     "maxSpeed": null,
     "engine": "2.05L V12",
     "era": "Korea"
+  },
+  {
+    "name": "Jaguar I (AOS)",
+    "designation": null,
+    "image": "../Images/tanks/Jaguar I (AOS).png",
+    "armaments": [
+      "129x628mm SK-129"
+    ],
+    "rotation": null,
+    "vertical": "-11.0 / 31.0deg",
+    "azimuth": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "53.16t",
+    "hp": 904,
+    "maxSpeed": null,
+    "engine": "2.05L V12",
+    "era": null
+  },
+  {
+    "name": "Jaguar II",
+    "designation": null,
+    "image": "../Images/tanks/Jaguar II.png",
+    "armaments": [
+      "129x628mm SK-129"
+    ],
+    "rotation": null,
+    "vertical": "-11.7 / 31.3000011deg",
+    "azimuth": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "54.74t",
+    "hp": 901,
+    "maxSpeed": null,
+    "engine": "2.05L V12",
+    "era": null
+  },
+  {
+    "name": "Cooper APC",
+    "designation": null,
+    "image": "../Images/tanks/Cooper APC.png",
+    "armaments": [
+      "20x30mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": "-20.0 / 35.0deg",
+    "azimuth": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 9,
+    "mass": "26.39t",
+    "hp": 879,
+    "maxSpeed": null,
+    "engine": "1.11L V12",
+    "era": null
+  },
+  {
+    "name": "Cooper AT",
+    "designation": null,
+    "image": "../Images/tanks/Cooper AT.png",
+    "armaments": [
+      "100x487mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": "-17.0 / 15.0deg",
+    "azimuth": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 3,
+    "mass": "32.29t",
+    "hp": 879,
+    "maxSpeed": null,
+    "engine": "1.11L V12",
+    "era": null
+  },
+  {
+    "name": "Cooper IFV",
+    "designation": null,
+    "image": "../Images/tanks/Cooper IFV.png",
+    "armaments": [
+      "30x120mm Unnamed Cannon"
+    ],
+    "rotation": null,
+    "vertical": "-10.0 / 26.0deg",
+    "azimuth": null,
+    "reload": null,
+    "penetration": null,
+    "crew": 4,
+    "mass": "32.83t",
+    "hp": 879,
+    "maxSpeed": null,
+    "engine": "1.11L V12",
+    "era": null
   },
   {
     "name": "Lancer I",
