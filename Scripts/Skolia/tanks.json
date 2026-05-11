@@ -1,9 +1,9 @@
 [
   {
     "name": "TK-1",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Tankette",
-    "image": "../Images/tanks/TK-1.png",
+    "image": "Images/tanks/TK-1.png",
     "armaments": [
         "50x275mm SK50"
     ],
@@ -21,9 +21,9 @@
   },
   {
     "name": "TK-2",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Tankette",
-    "image": "../Images/tanks/TK-2.png",
+    "image": "Images/tanks/TK-2.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
     ],
@@ -40,9 +40,9 @@
   },
   {
     "name": "TK-3",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Tankette",
-    "image": "../Images/tanks/TK-3.png",
+    "image": "Images/tanks/TK-3.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
     ],
@@ -59,9 +59,9 @@
   },
   {
     "name": "TK-4",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/TK-4.png",
+    "image": "Images/tanks/TK-4.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
     ],
@@ -78,9 +78,9 @@
   },
   {
     "name": "TK-4 (70)",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/TK-4 (70).png",
+    "image": "Images/tanks/TK-4 (70).png",
     "armaments": [
       "70x275mm Unnamed Cannon"
     ],
@@ -97,9 +97,9 @@
   },
   {
     "name": "TK-4 Mod. 1",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/TK-4 Mod. 1.png",
+    "image": "Images/tanks/TK-4 Mod. 1.png",
     "armaments": [
       "50x275mm Unnamed Cannon"
     ],
@@ -116,9 +116,9 @@
   },
   {
     "name": "TK-5",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/TK-5.png",
+    "image": "Images/tanks/TK-5.png",
     "armaments": [
       "70x298mm Unnamed Cannon"
     ],
@@ -135,9 +135,9 @@
   },
   {
     "name": "TK-6",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Landship",
-    "image": "../Images/tanks/TK-6.png",
+    "image": "Images/tanks/TK-6.png",
     "armaments": [
         "70x298mm Cannon | 594 m/s | 76mm pen",
 
@@ -159,9 +159,9 @@
   },
   {
     "name": "Charlotte I",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Charlotte I.png",
+    "image": "Images/tanks/Charlotte I.png",
     "armaments": [
       "50x275mm SK-50"
     ],
@@ -178,9 +178,9 @@
   },
   {
     "name": "Charlotte I (75)",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Charlotte I (75).png",
+    "image": "Images/tanks/Charlotte I (75).png",
     "armaments": [
       "75x482mm SK-75"
     ],
@@ -197,9 +197,9 @@
   },
   {
     "name": "Charlotte II",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Charlotte II.png",
+    "image": "Images/tanks/Charlotte II.png",
     "armaments": [
       "75x536mm SK-75"
     ],
@@ -216,9 +216,9 @@
   },
   {
     "name": "Charlotte II LG",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Charlotte II LG.png",
+    "image": "Images/tanks/Charlotte II LG.png",
     "armaments": [
       "75x536mm SK-75L"
     ],
@@ -235,9 +235,9 @@
   },
   {
     "name": "Charlotte III",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Medium Tank",
-    "image": "../Images/tanks/Charlotte III.png",
+    "image": "Images/tanks/Charlotte III.png",
     "armaments": [
       "75x536mm SK-75L"
     ],
@@ -254,9 +254,9 @@
   },
   {
     "name": "Charlotte III-R1",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Medium Tank",
-    "image": "../Images/tanks/Charlotte III-R1.png",
+    "image": "Images/tanks/Charlotte III-R1.png",
     "armaments": [
       "75x536mm SK-75L"
     ],
@@ -273,9 +273,9 @@
   },
   {
     "name": "Charlotte III (85)",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Medium Tank",
-    "image": "../Images/tanks/Charlotte III (85).png",
+    "image": "Images/tanks/Charlotte III (85).png",
     "armaments": [
       "85x574mm SK-75L"
     ],
@@ -292,9 +292,9 @@
   },
   {
     "name": "Charlotte IV",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/Charlotte IV.png",
+    "image": "Images/tanks/Charlotte IV.png",
     "armaments": [
       "80x714mm SK-80L"
     ],
@@ -311,9 +311,9 @@
   },
   {
     "name": "Charlotte AA Mk. 1",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Anti-Aircraft Gun",
-    "image": "../Images/tanks/Charlotte AA Mk. 1.png",
+    "image": "Images/tanks/Charlotte AA Mk. 1.png",
     "armaments": [
       "20x547mm SK-75L"
     ],
@@ -330,9 +330,9 @@
   },
   {
     "name": "Charlotte GMC",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Artillery",
-    "image": "../Images/tanks/Charlotte GMC.png",
+    "image": "Images/tanks/Charlotte GMC.png",
     "armaments": [
       "150x360mm Unnamed Cannon"
     ],
@@ -350,9 +350,9 @@
   },
   {
     "name": "Castle I",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/Castle I.png",
+    "image": "Images/tanks/Castle I.png",
     "armaments": [
       "80x806mm SK-80L"
     ],
@@ -369,9 +369,9 @@
   },
   {
     "name": "Castle II",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/Castle II.png",
+    "image": "Images/tanks/Castle II.png",
     "armaments": [
       "80x806mm SK-80L"
     ],
@@ -388,9 +388,9 @@
   },
   {
     "name": "Castle II (1944)",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/Castle II (1944).png",
+    "image": "Images/tanks/Castle II (1944).png",
     "armaments": [
       "80x806mm SK-80L"
     ],
@@ -407,9 +407,9 @@
   },
   {
     "name": "Castle II-R1",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/Castle II-R1.png",
+    "image": "Images/tanks/Castle II-R1.png",
     "armaments": [
       "80x806mm SK-80L"
     ],
@@ -426,9 +426,9 @@
   },
   {
     "name": "Castle II-R2",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/Castle II-R2.png",
+    "image": "Images/tanks/Castle II-R2.png",
     "armaments": [
       "80x806mm SK-80L"
     ],
@@ -445,9 +445,9 @@
   },
   {
     "name": "Castle II-R2 (1945)",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/Castle II-R2 (1945).png",
+    "image": "Images/tanks/Castle II-R2 (1945).png",
     "armaments": [
       "80x806mm SK-80L"
     ],
@@ -464,9 +464,9 @@
   },
   {
     "name": "Castle 122",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/Castle 122.png",
+    "image": "Images/tanks/Castle 122.png",
     "armaments": [
       "122x512mm Unnamed Cannon"
     ],
@@ -484,9 +484,9 @@
   },
   {
     "name": "Castle 122 Mod 1",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/Castle 122 Mod 1.png",
+    "image": "Images/tanks/Castle 122 Mod 1.png",
     "armaments": [
       "122x512mm Unnamed Cannon"
     ],
@@ -504,9 +504,9 @@
   },
   {
     "name": "Castle 158",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Tank Destroyer/Artillery",
-    "image": "../Images/tanks/Castle 158.png",
+    "image": "Images/tanks/Castle 158.png",
     "armaments": [
       "158x372mm Unnamed Cannon"
     ],
@@ -524,9 +524,9 @@
   },
   {
     "name": "Executioner",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/Executioner.png",
+    "image": "Images/tanks/Executioner.png",
     "armaments": [
       "129x628mm SK-129"
     ],
@@ -544,9 +544,9 @@
   },
   {
     "name": "Warwick I",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Warwick I.png",
+    "image": "Images/tanks/Warwick I.png",
     "armaments": [
       "50x519mm SK-50"
     ],
@@ -563,9 +563,9 @@
   },
   {
     "name": "Warwick II",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Warwick II.png",
+    "image": "Images/tanks/Warwick II.png",
     "armaments": [
       "62x541mm SK-62A"
     ],
@@ -582,9 +582,9 @@
   },
   {
     "name": "Warwick II-R",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Warwick II-R.png",
+    "image": "Images/tanks/Warwick II-R.png",
     "armaments": [
       "62x541mm SK-62A"
     ],
@@ -601,9 +601,9 @@
   },
   {
     "name": "Prowler I",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Prowler I.png",
+    "image": "Images/tanks/Prowler I.png",
     "armaments": [
       "70x360mm EC-70A"
     ],
@@ -620,9 +620,9 @@
   },
   {
     "name": "Prowler I LG",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "Light Tank",
-    "image": "../Images/tanks/Prowler I LG.png",
+    "image": "Images/tanks/Prowler I LG.png",
     "armaments": [
       "70x360mm EC-70B"
     ],
@@ -640,7 +640,7 @@
   {
     "name": "Prowler II",
     "designation": "Light Tank",
-    "image": "../Images/tanks/Prowler II.png",
+    "image": "Images/tanks/Prowler II.png",
     "armaments": [
       "70x360mm Unnamed Cannon"
     ],
@@ -658,9 +658,9 @@
   },
   {
     "name": "Jaguar I",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "MBT",
-    "image": "../Images/tanks/Jaguar I.png",
+    "image": "Images/tanks/Jaguar I.png",
     "armaments": [
       "129x628mm SK-129A"
     ],
@@ -677,9 +677,9 @@
   },
   {
     "name": "Jaguar I (AOA)",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "MBT",
-    "image": "../Images/tanks/Jaguar I (AOA).png",
+    "image": "Images/tanks/Jaguar I (AOA).png",
     "armaments": [
       "129x698mm SK-129B"
     ],
@@ -697,7 +697,7 @@
   {
     "name": "Jaguar I (AOS)",
     "designation": "MBT",
-    "image": "../Images/tanks/Jaguar I (AOS).png",
+    "image": "Images/tanks/Jaguar I (AOS).png",
     "armaments": [
       "129x628mm SK-129"
     ],
@@ -716,7 +716,7 @@
   {
     "name": "Jaguar II",
     "designation": "Light Tank",
-    "image": "../Images/tanks/Jaguar II.png",
+    "image": "Images/tanks/Jaguar II.png",
     "armaments": [
       "129x628mm SK-129"
     ],
@@ -735,7 +735,7 @@
   {
     "name": "Cooper APC",
     "designation": "Armored Personnel Carrier",
-    "image": "../Images/tanks/Cooper APC.png",
+    "image": "Images/tanks/Cooper APC.png",
     "armaments": [
       "20x30mm Unnamed Cannon"
     ],
@@ -754,7 +754,7 @@
   {
     "name": "Cooper AT",
     "designation": "Anti-Tank Vehicle",
-    "image": "../Images/tanks/Cooper AT.png",
+    "image": "Images/tanks/Cooper AT.png",
     "armaments": [
       "100x487mm Unnamed Cannon"
     ],
@@ -773,7 +773,7 @@
   {
     "name": "Cooper IFV",
     "designation": "Infantry Fighting Vehicle",
-    "image": "../Images/tanks/Cooper IFV.png",
+    "image": "Images/tanks/Cooper IFV.png",
     "armaments": [
       "30x120mm Unnamed Cannon"
     ],
@@ -791,9 +791,9 @@
   },
   {
     "name": "Lancer I",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "MBT",
-    "image": "../Images/tanks/Lancer I.png",
+    "image": "Images/tanks/Lancer I.png",
     "armaments": [
       "130x935mm SK-130"
     ],
@@ -810,9 +810,9 @@
   },
   {
     "name": "Lancer I (TAA)",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "MBT",
-    "image": "../Images/tanks/Lancer I (TAA).png",
+    "image": "Images/tanks/Lancer I (TAA).png",
     "armaments": [
       "130x935mm SK-130"
     ],
@@ -829,9 +829,9 @@
   },
   {
     "name": "Lancer II",
-    "flag": "../Images/flags/Skolia.png",
+    
     "designation": "MBT",
-    "image": "../Images/tanks/Lancer II.png",
+    "image": "Images/tanks/Lancer II.png",
     "armaments": [
       "130x935mm SK-130"
     ],

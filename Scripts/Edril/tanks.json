@@ -2,7 +2,7 @@
   {
     "name": "A-1",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-1.webp",
+    "image": "Images/tanks/A-1.webp",
     "armaments": [
       "37x180mm EC35-37A"
     ],
@@ -20,7 +20,7 @@
   {
     "name": "A-1B",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-1B.webp",
+    "image": "Images/tanks/A-1B.webp",
     "armaments": [
       "37x536mm EC35-37B"
     ],
@@ -38,7 +38,7 @@
   {
     "name": "A-1C-54",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-1C-54.webp",
+    "image": "Images/tanks/A-1C-54.webp",
     "armaments": [
       "54x692mm EC35-54A"
     ],
@@ -56,7 +56,7 @@
   {
     "name": "A-2A",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-2A.webp",
+    "image": "Images/tanks/A-2A.webp",
     "armaments": [
       "77x493mm EC46-77A"
     ],
@@ -74,7 +74,7 @@
   {
     "name": "A-2B",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-2B.webp",
+    "image": "Images/tanks/A-2B.webp",
     "armaments": [
       "77x493mm EC46-77A"
     ],
@@ -92,7 +92,7 @@
   {
     "name": "A-2C",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-2C.webp",
+    "image": "Images/tanks/A-2C.webp",
     "armaments": [
       "77x493mm EC46-77A"
     ],
@@ -110,7 +110,7 @@
   {
     "name": "A-2D",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-2D.webp",
+    "image": "Images/tanks/A-2D.webp",
     "armaments": [
       "77x493mm EC46-77A"
     ],
@@ -128,7 +128,7 @@
   {
     "name": "A-3A Pathfinder",
     "designation": "Experimental Light Tank",
-    "image": "../Images/tanks/A-3A Pathfinder.webp",
+    "image": "Images/tanks/A-3A Pathfinder.webp",
     "armaments": [
       "57x455mm EC38-57A"
     ],
@@ -146,7 +146,7 @@
   {
     "name": "A-4A Beacon",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-4A Beacon.webp",
+    "image": "Images/tanks/A-4A Beacon.webp",
     "armaments": [
       "52x466mm EC38-52A"
     ],
@@ -164,7 +164,7 @@
   {
     "name": "A-4B Beacon",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-4B Beacon.webp",
+    "image": "Images/tanks/A-4B Beacon.webp",
     "armaments": [
       "52x466mm EC38-52A"
     ],
@@ -182,7 +182,7 @@
   {
     "name": "A-4C Beacon",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-4C Beacon.webp",
+    "image": "Images/tanks/A-4C Beacon.webp",
     "armaments": [
       "52x660mm EC38-52B"
     ],
@@ -200,7 +200,7 @@
   {
     "name": "A-4D Beacon",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-4D Beacon.webp",
+    "image": "Images/tanks/A-4D Beacon.webp",
     "armaments": [
       "52x660mm EC38-52B"
     ],
@@ -218,7 +218,7 @@
   {
     "name": "A-5 Jester",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/A-5 Jester.webp",
+    "image": "Images/tanks/A-5 Jester.webp",
     "armaments": [
       "90x773mm EC42-90A"
     ],
@@ -236,7 +236,7 @@
   {
     "name": "A-5B Jester",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/A-5B Jester.webp",
+    "image": "Images/tanks/A-5B Jester.webp",
     "armaments": [
       "90x773mm EC44-90B"
     ],
@@ -254,7 +254,7 @@
   {
     "name": "A-5C Jester",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/A-5C Jester.webp",
+    "image": "Images/tanks/A-5C Jester.webp",
     "armaments": [
       "90x854mm EC44-90C"
     ],
@@ -272,7 +272,7 @@
   {
     "name": "A-5D Jester",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/A-5D Jester.webp",
+    "image": "Images/tanks/A-5D Jester.webp",
     "armaments": [
       "90x854mm EC44-90C"
     ],
@@ -290,7 +290,7 @@
   {
     "name": "A-5E Super Jester",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/A-5E Super Jester.webp",
+    "image": "Images/tanks/A-5E Super Jester.webp",
     "armaments": [
       "90x898mm EC45-90D"
     ],
@@ -308,7 +308,7 @@
   {
     "name": "A-6A Demolisher",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/A-6A Demolisher.webp",
+    "image": "Images/tanks/A-6A Demolisher.webp",
     "armaments": [
       "106x360mm EC42-106A"
     ],
@@ -326,7 +326,7 @@
   {
     "name": "A-6B Demolisher",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/A-6B Demolisher.webp",
+    "image": "Images/tanks/A-6B Demolisher.webp",
     "armaments": [
       "106x360mm EC44-106A"
     ],
@@ -344,7 +344,7 @@
   {
     "name": "A-6C-125 Demolisher",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/A-6C-125 Demolisher.webp",
+    "image": "Images/tanks/A-6C-125 Demolisher.webp",
     "armaments": [
       "125x460mm EC44-125A"
     ],
@@ -362,7 +362,7 @@
   {
     "name": "GA-6-120",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/GA-6-120.webp",
+    "image": "Images/tanks/GA-6-120.webp",
     "armaments": [
       "120x536mm EC44-120A"
     ],
@@ -381,7 +381,7 @@
   {
     "name": "AD-7A Spider",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/AD-7A Spider.webp",
+    "image": "Images/tanks/AD-7A Spider.webp",
     "armaments": [
       "92x603mm EC42-92A",
       "15x360mm HMG"
@@ -400,7 +400,7 @@
   {
     "name": "AD-7B Spider",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/AD-7B Spider.webp",
+    "image": "Images/tanks/AD-7B Spider.webp",
     "armaments": [
       "92x638mm EC42-92B",
       "15x360mm HMG"
@@ -419,7 +419,7 @@
   {
     "name": "AD-7C Spider",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/AD-7C Spider.webp",
+    "image": "Images/tanks/AD-7C Spider.webp",
     "armaments": [
       "92x638mm EC42-92B",
       "15x360mm HMG"
@@ -438,7 +438,7 @@
   {
     "name": "AD-7D Super Spider",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/AD-7D Super Spider.webp",
+    "image": "Images/tanks/AD-7D Super Spider.webp",
     "armaments": [
       "108x600mm EC44-108A",
       "15x360mm HMG"
@@ -457,7 +457,7 @@
   {
     "name": "AD-7E Hyper Spider",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/AD-7E Hyper Spider.webp",
+    "image": "Images/tanks/AD-7E Hyper Spider.webp",
     "armaments": [
       "108x600mm EC44-108A",
       "15x360mm HMG"
@@ -476,7 +476,7 @@
   {
     "name": "AD-7E-(HVSS) Hyper Spider",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/AD-7E-(HVSS) Hyper Spider.webp",
+    "image": "Images/tanks/AD-7E-(HVSS) Hyper Spider.webp",
     "armaments": [
       "108x600mm EC44-108A",
       "15x360mm HMG"
@@ -495,7 +495,7 @@
   {
     "name": "AD-7F Tarantula",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/AD-7F Tarantula.webp",
+    "image": "Images/tanks/AD-7F Tarantula.webp",
     "armaments": [
       "108x600mm EC44-108A"
     ],
@@ -513,7 +513,7 @@
   {
     "name": "AX-9A Scorpion",
     "designation": "Experimental TD",
-    "image": "../Images/tanks/AX-9A Scorpion.webp",
+    "image": "Images/tanks/AX-9A Scorpion.webp",
     "armaments": [
       "90x954mm EOC44-90A"
     ],
@@ -531,7 +531,7 @@
   {
     "name": "AX-9B Scorpion",
     "designation": "Experimental TD",
-    "image": "../Images/tanks/AX-9B Scorpion.webp",
+    "image": "Images/tanks/AX-9B Scorpion.webp",
     "armaments": [
       "90x954mm EOC44-90A"
     ],
@@ -549,7 +549,7 @@
   {
     "name": "A-10A Paragon",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/A-10A Paragon.webp",
+    "image": "Images/tanks/A-10A Paragon.webp",
     "armaments": [
       "140x703mm EC43-140A"
     ],
@@ -567,7 +567,7 @@
   {
     "name": "A-10B Paragon",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/A-10B Paragon.webp",
+    "image": "Images/tanks/A-10B Paragon.webp",
     "armaments": [
       "140x703mm EC43-140A"
     ],
@@ -585,7 +585,7 @@
   {
     "name": "A-10C-150 Paragon",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/A-10C-150 Paragon.webp",
+    "image": "Images/tanks/A-10C-150 Paragon.webp",
     "armaments": [
       "150x865mm EC50-150A"
     ],
@@ -603,7 +603,7 @@
   {
     "name": "A-10D-150 Paragon",
     "designation": "Heavy Tank",
-    "image": "../Images/tanks/A-10D-150 Paragon.webp",
+    "image": "Images/tanks/A-10D-150 Paragon.webp",
     "armaments": [
       "150x1184mm EC50-150B"
     ],
@@ -621,7 +621,7 @@
   {
     "name": "A-11 Punisher",
     "designation": "SPAA",
-    "image": "../Images/tanks/A-11 Punisher.webp",
+    "image": "Images/tanks/A-11 Punisher.webp",
     "armaments": [
       "3 60x174mm EC40-60A"
     ],
@@ -639,7 +639,7 @@
   {
     "name": "A-12",
     "designation": "Self Propelled Artillery",
-    "image": "../Images/tanks/A-12.webp",
+    "image": "Images/tanks/A-12.webp",
     "armaments": [
       "200x440mm EC44-200A"
     ],
@@ -658,7 +658,7 @@
   {
     "name": "AXTD-13",
     "designation": "Experimental TD",
-    "image": "../Images/tanks/AXTD-13.webp",
+    "image": "Images/tanks/AXTD-13.webp",
     "armaments": [
       "72x876mm ECX44-72A"
     ],
@@ -676,7 +676,7 @@
   {
     "name": "ATD-13 Savior",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/ATD-13 Savior.webp",
+    "image": "Images/tanks/ATD-13 Savior.webp",
     "armaments": [
       "72x876mm ECX44-72A"
     ],
@@ -694,7 +694,7 @@
   {
     "name": "ATD-13B-108 Savior",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/ATD-13B-108 Savior.webp",
+    "image": "Images/tanks/ATD-13B-108 Savior.webp",
     "armaments": [
       "92x811mm EC50-108A"
     ],
@@ -712,7 +712,7 @@
   {
     "name": "A-14A Almighty",
     "designation": "MBT",
-    "image": "../Images/tanks/A-14A Almighty.webp",
+    "image": "Images/tanks/A-14A Almighty.webp",
     "armaments": [
       "140x900mm EC43-140A"
     ],
@@ -730,7 +730,7 @@
   {
     "name": "A-14B Almighty",
     "designation": "MBT",
-    "image": "../Images/tanks/A-14B Almighty.webp",
+    "image": "Images/tanks/A-14B Almighty.webp",
     "armaments": [
       "140x900mm EC43-140A"
     ],
@@ -748,7 +748,7 @@
   {
     "name": "A-14B-(HVSS) Almighty",
     "designation": "MBT",
-    "image": "../Images/tanks/A-14B-(HVSS) Almighty.webp",
+    "image": "Images/tanks/A-14B-(HVSS) Almighty.webp",
     "armaments": [
       "140x900mm EC43-140A"
     ],
@@ -766,7 +766,7 @@
   {
     "name": "A-14C-150 Almighty",
     "designation": "MBT",
-    "image": "../Images/tanks/A-14C-150 Almighty.webp",
+    "image": "Images/tanks/A-14C-150 Almighty.webp",
     "armaments": [
       "150x865mm EC50-150A"
     ],
@@ -784,7 +784,7 @@
   {
     "name": "A-14D-150 Almighty",
     "designation": "MBT",
-    "image": "../Images/tanks/A-14D-150 Almighty.webp",
+    "image": "Images/tanks/A-14D-150 Almighty.webp",
     "armaments": [
       "150x865mm EC50-150A"
     ],
@@ -802,7 +802,7 @@
   {
     "name": "A-15 Venalux",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/A-15 Venalux.webp",
+    "image": "Images/tanks/A-15 Venalux.webp",
     "armaments": [
       "108x1000mm EC45-108A"
     ],
@@ -820,7 +820,7 @@
   {
     "name": "AX-16",
     "designation": "Experimental Tank (cast turret)",
-    "image": "../Images/tanks/AX-16.webp",
+    "image": "Images/tanks/AX-16.webp",
     "armaments": [
       "122x649mm ECX45-122A"
     ],
@@ -838,7 +838,7 @@
   {
     "name": "A-17A",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/A-17A.webp",
+    "image": "Images/tanks/A-17A.webp",
     "armaments": [
       "155x898mm Autoloaded EC44-155A"
     ],
@@ -856,7 +856,7 @@
   {
     "name": "T-17A",
     "designation": "Medium Tank",
-    "image": "../Images/tanks/T-17A.webp",
+    "image": "Images/tanks/T-17A.webp",
     "armaments": [
       "152x666mm Autoloaded EC44-152A"
     ],
@@ -874,7 +874,7 @@
   {
     "name": "A-18",
     "designation": "Airdrop Tank",
-    "image": "../Images/tanks/A-18.webp",
+    "image": "Images/tanks/A-18.webp",
     "armaments": [
       "90x649mm EC51-90A"
     ],
@@ -892,7 +892,7 @@
   {
     "name": "A-19A Ward",
     "designation": "Siege Tank",
-    "image": "../Images/tanks/A-19A Ward.webp",
+    "image": "Images/tanks/A-19A Ward.webp",
     "armaments": [
       "110x369mm EC44-110A",
       "20x62mm Autocannon"
@@ -911,7 +911,7 @@
   {
     "name": "XA-20A Reclaimer",
     "designation": "Failed MBT",
-    "image": "../Images/tanks/XA-20A Reclaimer.webp",
+    "image": "Images/tanks/XA-20A Reclaimer.webp",
     "armaments": [
       "140x903mm EC43-140C"
     ],
@@ -929,7 +929,7 @@
   {
     "name": "A-400A Disciple",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-400A Disciple.webp",
+    "image": "Images/tanks/A-400A Disciple.webp",
     "armaments": [
       "72x584mm EC45-72A"
     ],
@@ -947,7 +947,7 @@
   {
     "name": "A-400ACS Disciple",
     "designation": "Light Siege Tank",
-    "image": "../Images/tanks/A-400ACS Disciple.webp",
+    "image": "Images/tanks/A-400ACS Disciple.webp",
     "armaments": [
       "140x401mm EC43-140B Compact"
     ],
@@ -965,7 +965,7 @@
   {
     "name": "A-400B Disciple",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-400B Disciple.webp",
+    "image": "Images/tanks/A-400B Disciple.webp",
     "armaments": [
       "72x584mm EC45-72A"
     ],
@@ -983,7 +983,7 @@
   {
     "name": "A-400C Disciple",
     "designation": "Light Tank",
-    "image": "../Images/tanks/A-400C Disciple.webp",
+    "image": "Images/tanks/A-400C Disciple.webp",
     "armaments": [
       "72x584mm EC45-72A"
     ],
@@ -1001,7 +1001,7 @@
   {
     "name": "ATD-21A Brushcutter",
     "designation": "Tank Destroyer",
-    "image": "../Images/tanks/ATD-21A Brushcutter.webp",
+    "image": "Images/tanks/ATD-21A Brushcutter.webp",
     "armaments": [
       "125x1027mm EC46-125A"
     ],
@@ -1019,7 +1019,7 @@
   {
     "name": "G-1A Redux",
     "designation": "MBT",
-    "image": "../Images/tanks/G-1A Redux.webp",
+    "image": "Images/tanks/G-1A Redux.webp",
     "armaments": [
       "140x903mm Autoloaded EC43-140C"
     ],
@@ -1037,7 +1037,7 @@
   {
     "name": "G-1B Redux",
     "designation": "MBT",
-    "image": "../Images/tanks/G-1B Redux.webp",
+    "image": "Images/tanks/G-1B Redux.webp",
     "armaments": [
       "140x903mm EC43-140C"
     ],
@@ -1055,7 +1055,7 @@
   {
     "name": "G-1B2-200 ",
     "designation": "Self Propelled Artillery",
-    "image": "../Images/tanks/G-1B2-200.webp",
+    "image": "Images/tanks/G-1B2-200.webp",
     "armaments": [
       "200x400mm Autoloaded EC61-200A"
     ],
@@ -1073,7 +1073,7 @@
   {
     "name": "G-1C Redux",
     "designation": "MBT",
-    "image": "../Images/tanks/G-1C Redux.webp",
+    "image": "Images/tanks/G-1C Redux.webp",
     "armaments": [
       "140x903mm Autoloaded EC43-140C"
     ],
@@ -1091,7 +1091,7 @@
   {
     "name": "G-1CA Redux",
     "designation": "MBT",
-    "image": "../Images/tanks/G-1CA Redux.webp",
+    "image": "Images/tanks/G-1CA Redux.webp",
     "armaments": [
       "140x903mm EC43-140C"
     ],
@@ -1109,7 +1109,7 @@
   {
     "name": "G-1CS (Siege)",
     "designation": "Siege Tank",
-    "image": "../Images/tanks/G-1CS (Siege).webp",
+    "image": "Images/tanks/G-1CS (Siege).webp",
     "armaments": [
       "210x400mm EC61-200A"
     ],
@@ -1127,7 +1127,7 @@
   {
     "name": "G-1-14",
     "designation": "MBT",
-    "image": "../Images/tanks/G-1-14.webp",
+    "image": "Images/tanks/G-1-14.webp",
     "armaments": [
       "150x865mm EC50-150A"
     ],
@@ -1145,7 +1145,7 @@
   {
     "name": "G-1D Redux",
     "designation": "MBT",
-    "image": "../Images/tanks/G-1D Redux.webp",
+    "image": "Images/tanks/G-1D Redux.webp",
     "armaments": [
       "140x903mm EC43-140C"
     ],

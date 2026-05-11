@@ -47,7 +47,7 @@ def extract_from_blueprint(data: dict, filename: str) -> dict:
     result = {
         "name": name,
         "designation": None,
-        "image": f"../Images/tanks/{name}.png",
+        "image": f"Images/tanks/{name}.png",
         "armaments": [],
         "rotation": None,
         "vertical": None,
