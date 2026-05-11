@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // show skeletons immediately
   showSkeletons(3);
 
-  fetch(`../Scripts/${nation}/tanks.json`)
+  fetch(`Scripts/${nation}/tanks.json`)
     .then(response => {
       if (!response.ok) throw new Error('Failed to load tanks.json');
       return response.json();
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // use the `nation` variable for the flag path instead of JSON
         {
           const flag = document.createElement('img');
-          flag.src = `../Images/flags/${nation}Small.jpg`;
+          flag.src = `Images/flags/${nation}Small.jpg`;
           flag.alt = `${tank.name} flag`;
           flag.className = 'tank-flag';
           card.appendChild(flag);
