@@ -1,13 +1,19 @@
-Add all data for Edril, Skolia
-Final Styling for tank cards, home page, nations
+Add all data for Edril, Skolia <- v1.0
+Final Styling for tank cards, home page, nations <- v1.0
 fill out textual content for home page, nation descs,
-Get tank images Edril <- NOW
-    Skolia <- NEXT
+
+Get tank images Skolia <- NEXT
 Get tank stats Skolia <- NEXT
-Add JS for including Horizontal <- BEFORE v0.2
-Get all designations for Skolia
+
 Optimize data files
 Optimize website and images
+Make it so that tanks mods or subvariants are on a different page than the base 
+    one and the base one shows up on the tanks page <- FOR v1.0
+AND/OR make it so that when hovering over the image it displays the full card
+See if one page is needed or can be used for the tanks I.E. tanks.html and it
+    can be loaded dynamically depending on what button was clicked
+
+
 Replicas
   {
     "name": "Replicas",
@@ -17,6 +23,9 @@ Replicas
     "more": "#"
   }
 
-
+Get tank images Edril <- DONE
 Get tank stats Edril DONE
 Remove VAC DONE
+Consolidate Home and nations page DONE
+Add JS for including Horizontal DONE
+et all designations for Skolia DONE
